@@ -1,0 +1,208 @@
+.help-inline {
+	display: block;
+}
+
+#tertiary-content div {
+	display: block;
+	width: 45%;
+	overflow: visible;
+	white-space: nowrap;
+}
+
+#tertiary-content {
+	padding-bottom: 40px;
+}
+
+#tertiary-content div input {
+	width: 175px;
+}
+
+textarea#options {
+	width: 412px !important;
+	height: 75px;
+	display: inline-block;
+}
+
+#footer {
+	margin-top: 0;
+}
+
+#submit {
+	position: relative;
+	margin-left: 100%;
+	left: -55px;
+}
+li .active {
+	background-color: #0D8AA0;
+}
+
+a.financing-btn {
+	background: green !important;
+	color: white !important;
+	padding: .4em .7em .4em .7em;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 1.5em;
+	float: right;
+	margin-top: 10px;
+}
+a.financing-btn:hover {
+	background: darkgreen !important;
+	text-decoration: none !important;
+}
+
+#tertiary-content img {
+	float: left;
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 3px;
+}
+p.disclaimer {
+	font-size: .9em !important;
+}
+/* end finance page */
+
+/* sell your car */
+.help-inline {
+	display: block;
+}
+
+#tertiary-content div {
+	display: block;
+	width: 45%;
+	overflow: visible;
+	white-space: nowrap;
+}
+
+#tertiary-content div input {
+	width: 175px;
+}
+
+textarea#options {
+	width: 412px !important;
+	height: 75px;
+	display: inline-block;
+}
+
+#footer {
+	margin-top: 10px;
+}
+
+#submit {
+	position: relative;
+	margin-left: 100%;
+	left: -55px;
+}
+li .active {
+	background-color: #0D8AA0;
+}
+
+/* estimate page */
+#features-content-top {
+	background-color: #1F1F1F;
+	width: 100%;
+	height: 50px;
+}
+#fct-left {
+	float: left;
+	width: 47%;
+	height: 100%;
+}
+#fct-left p {
+	font-weight: bold;
+	padding: 18px;
+	color: red;
+	font-size: 22px;
+}
+#features-print {
+	width: 57px;
+	background-color: white;
+}
+#fbtn-print {
+	margin-top: 15px;
+	width: 70px;
+	float: right;
+}
+#estimate-content {
+	height: 600px;
+	margin-left: 0px;
+	background-color: white;
+	background-image: url('../images/bg-my.png');
+}
+#est-text {
+	width: 100%;
+	height: 50px;
+}
+
+#est-text p {
+	padding: 22px;
+	font: 13px arial, helvetica, clean, sans-serif;
+	color: #1F1F1F !important;
+}
+#est-form {
+	border: 5px solid #11728F;
+	margin-top: 50px;
+	width: 97%;
+	height: 450px;
+	margin-left: 10px;
+}
+#est-form-title {
+	margin-left: 30px; 
+	color: red;
+	font-size: 23px;
+	margin-top: 30px;
+}
+#est-monthly-form-title {
+	color: red;
+	font-size: 23px;
+	margin-top: 30px;
+}
+#est-will-pay {
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+.est-form-label {
+	margin-left: 30px;
+	height: 50px;
+	margin-top: 20px;
+}
+.est-form-label span {
+	color: blue;
+	font-size: 19px;
+}
+.est-form-input {
+	border: 2px solid #11728F;
+	margin-top: 10px;
+	height: 33px;
+}
+.ie .est-form-input{
+	height: 20px;
+}
+.est-monthly-form-input{
+	border: 2px solid #11728F;
+	margin-top: 10px;
+	height: 33px;
+}
+.ie .est-monthly-form-input{
+	height: 20px;
+}
+#select-mons {
+	border: 2px solid #11728F;
+	width: 112px;
+	margin-top: 10px;
+}
+#select-monthly-mons {
+	border: 2px solid #11728F;
+	width: 112px;
+	margin-top: 10px;
+}
+#est-result {
+	color: blue;
+	font-weight: bold;
+}
+#est-monthly-result{
+	color: blue;
+	font-weight: bold;
+}

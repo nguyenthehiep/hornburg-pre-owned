@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode
+END
+Gtin14.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Gtin14.php
+END
+Itf14.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Itf14.php
+END
+Code39.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Code39.php
+END
+Code25.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Code25.php
+END
+Planet.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Planet.php
+END
+Ean13.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Ean13.php
+END
+Ean18.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Ean18.php
+END
+Upca.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Upca.php
+END
+Gtin12.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Gtin12.php
+END
+Code25interleaved.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Code25interleaved.php
+END
+AdapterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/AdapterInterface.php
+END
+Upce.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Upce.php
+END
+Ean8.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Ean8.php
+END
+Leitcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Leitcode.php
+END
+Ean5.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Ean5.php
+END
+Ean14.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Ean14.php
+END
+Identcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Identcode.php
+END
+Code93.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Code93.php
+END
+Postnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Postnet.php
+END
+AdapterAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/AdapterAbstract.php
+END
+Royalmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Royalmail.php
+END
+Code93ext.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Code93ext.php
+END
+Ean2.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Ean2.php
+END
+Code39ext.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Code39ext.php
+END
+Ean12.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Ean12.php
+END
+Intelligentmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Intelligentmail.php
+END
+Gtin13.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Gtin13.php
+END
+Sscc.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Sscc.php
+END
+Issn.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Validate/Barcode/Issn.php
+END

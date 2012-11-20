@@ -1,0 +1,52 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Nirvanix/Namespace
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+BaseTest.php
+file
+
+
+
+
+2012-10-24T09:51:21.942000Z
+fa7d9a0a6a66b6e2cca9e43f26e54d3a
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+ImfsTest.php
+file
+
+
+
+
+2012-10-24T09:51:21.946000Z
+59f0faf6e9d0034c3aecf03d75facfb3
+2012-10-18T07:22:53.522953Z
+3
+eric
+

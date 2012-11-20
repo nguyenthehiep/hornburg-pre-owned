@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenId
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenId/AllTests.php
+END
+ResponseHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenId/ResponseHelper.php
+END
+ExtensionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenId/ExtensionTest.php
+END
+ProviderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenId/ProviderTest.php
+END
+ConsumerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenId/ConsumerTest.php
+END

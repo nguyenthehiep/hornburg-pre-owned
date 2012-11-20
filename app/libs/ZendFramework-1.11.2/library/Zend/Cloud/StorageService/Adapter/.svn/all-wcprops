@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/StorageService/Adapter
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/StorageService/Adapter/WindowsAzure.php
+END
+FileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/StorageService/Adapter/FileSystem.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/StorageService/Adapter/S3.php
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/StorageService/Adapter/Nirvanix.php
+END

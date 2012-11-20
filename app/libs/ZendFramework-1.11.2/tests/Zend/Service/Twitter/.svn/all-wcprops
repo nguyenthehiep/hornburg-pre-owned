@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/AllTests.php
+END
+TwitterSearchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/TwitterSearchTest.php
+END
+TwitterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/TwitterTest.php
+END

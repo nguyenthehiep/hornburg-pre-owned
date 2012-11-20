@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Mail
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Mail/Message.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Mail/Part.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Mail/Storage.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Mail/Exception.php
+END

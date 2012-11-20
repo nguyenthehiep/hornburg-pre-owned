@@ -1,0 +1,55 @@
+.help-inline {
+	display: block;
+}
+#tertiary-content div {
+	display: block;
+	overflow: visible;
+	white-space: nowrap;
+}
+#tertiary-content {
+	position: relative;
+	padding-bottom: 10px;
+}
+#tertiary-content div input {
+	width: 175px;
+}
+textarea#options {
+	width: 412px !important;
+	height: 75px;
+	display: inline-block;
+}
+#footer {
+	margin-top: 10px;
+}
+#submit {
+	position: relative;
+	margin-left: 100%;
+	left: -55px;
+}
+.centered-images img {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.centered-images {
+	text-align: center;
+}
+#tertiary-content h4 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+#tertiary-content img {
+	display: inline-block;
+	float: right;
+	margin: 10px;
+	margin-top: 0;
+	margin-right: 10px;
+}
+ul.location-list {
+	display: inline-block;
+	width: 25%;
+}
+
+li .active {
+	background-color: #0D8AA0;
+}

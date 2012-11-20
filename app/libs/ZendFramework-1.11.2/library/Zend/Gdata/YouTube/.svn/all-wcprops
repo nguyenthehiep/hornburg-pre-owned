@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube
+END
+PlaylistListEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/PlaylistListEntry.php
+END
+PlaylistListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/PlaylistListFeed.php
+END
+ActivityFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/ActivityFeed.php
+END
+CommentFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/CommentFeed.php
+END
+VideoFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/VideoFeed.php
+END
+MediaEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/MediaEntry.php
+END
+PlaylistVideoEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/PlaylistVideoEntry.php
+END
+SubscriptionFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/SubscriptionFeed.php
+END
+InboxFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/InboxFeed.php
+END
+UserProfileEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/UserProfileEntry.php
+END
+PlaylistVideoFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/PlaylistVideoFeed.php
+END
+VideoQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/VideoQuery.php
+END
+VideoEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/VideoEntry.php
+END
+ActivityEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/ActivityEntry.php
+END
+ContactFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/ContactFeed.php
+END
+SubscriptionEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/SubscriptionEntry.php
+END
+CommentEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/CommentEntry.php
+END
+ContactEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/ContactEntry.php
+END
+InboxEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/YouTube/InboxEntry.php
+END

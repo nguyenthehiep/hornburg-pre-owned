@@ -1,0 +1,67 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/StorageService
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+Adapter
+dir
+
+Adapter.php
+file
+
+
+
+
+2012-10-24T09:52:50.975000Z
+f621d3f8693da30edb4f9c250344c48d
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Exception.php
+file
+
+
+
+
+2012-10-24T09:52:50.972000Z
+816ad2292b6d0c8a69c104a573feae8f
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Factory.php
+file
+
+
+
+
+2012-10-24T09:52:50.978000Z
+c2bfab4cf9034bcbc970019b0f6f3235
+2012-10-18T07:22:53.522953Z
+3
+eric
+

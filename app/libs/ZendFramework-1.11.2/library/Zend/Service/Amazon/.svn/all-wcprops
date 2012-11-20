@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon
+END
+Offer.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Offer.php
+END
+SimilarProduct.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/SimilarProduct.php
+END
+Authentication.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Authentication.php
+END
+ResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/ResultSet.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/S3.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Abstract.php
+END
+ListmaniaList.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/ListmaniaList.php
+END
+EditorialReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/EditorialReview.php
+END
+Sqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Sqs.php
+END
+OfferSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/OfferSet.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Query.php
+END
+Ec2.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Ec2.php
+END
+CustomerReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/CustomerReview.php
+END
+Accessories.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Accessories.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Image.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Item.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/Exception.php
+END
+SimpleDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/Amazon/SimpleDb.php
+END

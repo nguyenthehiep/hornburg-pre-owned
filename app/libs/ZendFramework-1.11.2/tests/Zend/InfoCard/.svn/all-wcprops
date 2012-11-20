@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/AllTests.php
+END
+AssertionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/AssertionTest.php
+END
+XmlParsingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/XmlParsingTest.php
+END
+CipherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/CipherTest.php
+END
+ProcessTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/ProcessTest.php
+END

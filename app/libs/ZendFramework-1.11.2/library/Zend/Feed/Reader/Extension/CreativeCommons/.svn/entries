@@ -1,0 +1,52 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader/Extension/CreativeCommons
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+Entry.php
+file
+
+
+
+
+2012-10-24T09:52:21.393000Z
+ca7adfa96ee4cde61a1801939f8fddef
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Feed.php
+file
+
+
+
+
+2012-10-24T09:52:21.397000Z
+9cc0054f506ebbb92ad61023bdc56181
+2012-10-18T07:22:53.522953Z
+3
+eric
+

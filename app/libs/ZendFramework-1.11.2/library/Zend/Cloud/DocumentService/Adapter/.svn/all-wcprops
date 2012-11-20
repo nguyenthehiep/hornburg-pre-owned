@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Adapter
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Adapter/WindowsAzure.php
+END
+AbstractAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Adapter/AbstractAdapter.php
+END
+SimpleDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Adapter/SimpleDb.php
+END

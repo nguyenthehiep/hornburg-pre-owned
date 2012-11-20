@@ -1,0 +1,67 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Validate/Db
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+AllTests.php
+file
+
+
+
+
+2012-10-24T09:52:09.103000Z
+360aab3f53fa191df0a424f9711a8daf
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+NoRecordExistsTest.php
+file
+
+
+
+
+2012-10-24T09:52:09.107000Z
+5d65076b7444fbfc21b4b1ba9fb934b6
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+RecordExistsTest.php
+file
+
+
+
+
+2012-10-24T09:52:09.261000Z
+f8653f0c23f54686a8d8a42043aa594a
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+_files
+dir
+

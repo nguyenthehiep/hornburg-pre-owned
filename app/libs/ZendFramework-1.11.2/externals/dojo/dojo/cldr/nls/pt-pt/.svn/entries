@@ -1,0 +1,54 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/cldr/nls/pt-pt
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+gregorian.js
+file
+
+
+
+
+2012-10-24T09:53:43.711000Z
+8de9aa29a69b5beaf30b15e381ed900e
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+number.js
+file
+
+
+
+
+2012-10-24T09:53:43.705000Z
+cc2be685728ba3ffd2e07363c42ab658
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

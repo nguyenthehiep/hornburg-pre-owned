@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files
+END
+friendships.destroy.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/friendships.destroy.twitter.xml
+END
+statuses.show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/statuses.show.xml
+END
+statuses.mentions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/statuses.mentions.xml
+END
+user_timeline.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/user_timeline.twitter.xml
+END
+users.show.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/users.show.twitter.xml
+END
+friendships.create.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/friendships.create.twitter.xml
+END
+statuses.destroy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/statuses.destroy.xml
+END
+favorites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/favorites.xml
+END
+blocks.blocking.ids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/blocks.blocking.ids.xml
+END
+favorites.destroy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/favorites.destroy.xml
+END
+favorites.create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/favorites.create.xml
+END
+account.verify_credentials.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/account.verify_credentials.xml
+END
+statuses.friends_timeline.page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/statuses.friends_timeline.page.xml
+END
+rate_limit_status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/rate_limit_status.xml
+END
+statuses.update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/statuses.update.xml
+END
+statuses.friends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/statuses.friends.xml
+END
+statuses.followers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/statuses.followers.xml
+END
+blocks.exists.padraicb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/blocks.exists.padraicb.xml
+END
+public_timeline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/public_timeline.xml
+END
+friendships.exists.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/friendships.exists.twitter.xml
+END
+blocks.create.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/blocks.create.twitter.xml
+END
+blocks.destroy.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/blocks.destroy.twitter.xml
+END
+blocks.blocking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/blocks.blocking.xml
+END
+blocks.exists.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Twitter/_files/blocks.exists.twitter.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader
+END
+EntryAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader/EntryAbstract.php
+END
+FeedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader/FeedInterface.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader/Collection.php
+END
+FeedAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader/FeedAbstract.php
+END
+EntryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader/EntryInterface.php
+END
+FeedSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader/FeedSet.php
+END

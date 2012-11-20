@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Dojo
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Dojo/AllTests.php
+END
+DataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Dojo/DataTest.php
+END
+DojoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Dojo/DojoTest.php
+END
+BuildLayerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Dojo/BuildLayerTest.php
+END

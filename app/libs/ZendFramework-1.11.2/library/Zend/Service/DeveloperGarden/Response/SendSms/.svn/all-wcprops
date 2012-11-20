@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SendSms
+END
+SendSmsAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SendSms/SendSmsAbstract.php
+END
+SendFlashSMSResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SendSms/SendFlashSMSResponse.php
+END
+SendSMSResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SendSms/SendSMSResponse.php
+END

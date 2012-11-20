@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db
+END
+TestSetup.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/TestSetup.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/AllTests.php
+END
+SkipTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/SkipTests.php
+END

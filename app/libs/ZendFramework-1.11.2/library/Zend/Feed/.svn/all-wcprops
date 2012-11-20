@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed
+END
+Rss.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Rss.php
+END
+Pubsubhubbub.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Pubsubhubbub.php
+END
+Writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Writer.php
+END
+Atom.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Atom.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Abstract.php
+END
+Builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Builder.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Exception.php
+END
+Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Reader.php
+END
+Element.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Feed/Element.php
+END

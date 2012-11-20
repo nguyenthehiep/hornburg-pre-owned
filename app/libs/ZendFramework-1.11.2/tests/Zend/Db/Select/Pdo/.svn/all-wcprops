@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Select/Pdo
+END
+OciTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Select/Pdo/OciTest.php
+END
+MssqlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Select/Pdo/MssqlTest.php
+END
+IbmTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Select/Pdo/IbmTest.php
+END
+MysqlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Select/Pdo/MysqlTest.php
+END
+SqliteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Select/Pdo/SqliteTest.php
+END
+PgsqlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Select/Pdo/PgsqlTest.php
+END

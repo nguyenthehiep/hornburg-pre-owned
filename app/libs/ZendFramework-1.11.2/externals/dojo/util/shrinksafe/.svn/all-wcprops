@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/util/shrinksafe
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/util/shrinksafe/LICENSE
+END
+MPL-1.1.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/util/shrinksafe/MPL-1.1.html
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/util/shrinksafe/build.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/util/shrinksafe/README
+END
+shrinksafe.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/util/shrinksafe/shrinksafe.jar
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/util/shrinksafe/js.jar
+END

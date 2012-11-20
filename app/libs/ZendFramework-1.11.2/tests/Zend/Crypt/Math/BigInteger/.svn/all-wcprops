@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Crypt/Math/BigInteger
+END
+BcmathTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Crypt/Math/BigInteger/BcmathTest.php
+END
+GmpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Crypt/Math/BigInteger/GmpTest.php
+END

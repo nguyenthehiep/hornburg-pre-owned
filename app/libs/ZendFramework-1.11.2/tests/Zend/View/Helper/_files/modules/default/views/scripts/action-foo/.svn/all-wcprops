@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/View/Helper/_files/modules/default/views/scripts/action-foo
+END
+bar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/View/Helper/_files/modules/default/views/scripts/action-foo/bar.phtml
+END
+baz.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/View/Helper/_files/modules/default/views/scripts/action-foo/baz.phtml
+END

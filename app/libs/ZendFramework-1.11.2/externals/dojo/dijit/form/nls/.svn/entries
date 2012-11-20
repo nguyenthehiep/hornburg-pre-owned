@@ -1,0 +1,154 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dijit/form/nls
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+ComboBox.js
+file
+
+
+
+
+2012-10-24T09:53:08.086000Z
+0fe18ba666dd868c4492ba535bd38628
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Textarea.js
+file
+
+
+
+
+2012-10-24T09:53:08.340000Z
+f019052d463446e3e507d7b94deb3195
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+ar
+dir
+
+ca
+dir
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+he
+dir
+
+hu
+dir
+
+it
+dir
+
+ja
+dir
+
+kk
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ro
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+validate.js
+file
+
+
+
+
+2012-10-24T09:53:08.664000Z
+ea246227cea19a8dd22bab566735046b
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+zh
+dir
+
+zh-tw
+dir
+

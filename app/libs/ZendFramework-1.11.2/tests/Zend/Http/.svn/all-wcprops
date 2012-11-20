@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/AllTests.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/index.php
+END
+CookieJarTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/CookieJarTest.php
+END
+ResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/ResponseTest.php
+END
+CookieTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/CookieTest.php
+END
+UserAgentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/UserAgentTest.php
+END

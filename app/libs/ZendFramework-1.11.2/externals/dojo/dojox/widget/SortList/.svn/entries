@@ -1,0 +1,54 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/SortList
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+SortList.css
+file
+
+
+
+
+2012-10-24T09:53:18.341000Z
+910c28a872c25785572ddcb276dd699c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+SortList.html
+file
+
+
+
+
+2012-10-24T09:53:18.335000Z
+490d3567557f5f0d6ec40332cb241cc7
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

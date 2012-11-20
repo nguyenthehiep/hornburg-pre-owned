@@ -1,0 +1,54 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Feed/_files/Atom/datemodified/plain
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+atom03.xml
+file
+
+
+
+
+2012-10-24T09:51:35.801000Z
+ee80493038ce08f76cc3f55775e1037d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+atom10.xml
+file
+
+
+
+
+2012-10-24T09:51:35.795000Z
+cd7476f36f4341c9da4a6f9ff3b0b630
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

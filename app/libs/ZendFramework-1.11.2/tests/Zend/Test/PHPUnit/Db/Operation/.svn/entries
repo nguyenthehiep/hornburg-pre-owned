@@ -1,0 +1,79 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+AllTests.php
+file
+
+
+
+
+2012-10-24T09:52:02.710000Z
+b121992074037756d047bbcb3a92f220
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+DeleteAllTest.php
+file
+
+
+
+
+2012-10-24T09:52:02.714000Z
+20d41d757388030af85011b1ed6d2aa2
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+InsertTest.php
+file
+
+
+
+
+2012-10-24T09:52:02.773000Z
+b6917c07db5aac59fa69878e54a79c02
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+TruncateTest.php
+file
+
+
+
+
+2012-10-24T09:52:02.777000Z
+07f6fce29989e8298771105b7bc82e0c
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+_files
+dir
+

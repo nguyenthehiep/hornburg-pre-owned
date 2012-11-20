@@ -1,0 +1,53 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Service/LiveDocx/MailMerge/convert
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+convert-document.php
+file
+
+
+
+
+2012-10-24T09:53:59.781000Z
+ee6180f1b3f6ce52a20f726d5da0a22a
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+document.doc
+file
+
+
+
+
+2012-10-24T09:53:59.789000Z
+1a6409b3c73feba98e3e2064ad49766c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

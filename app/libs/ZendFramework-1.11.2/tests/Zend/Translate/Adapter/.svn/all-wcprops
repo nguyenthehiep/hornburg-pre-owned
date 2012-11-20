@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter
+END
+GettextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/GettextTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/AllTests.php
+END
+TmxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/TmxTest.php
+END
+XliffTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/XliffTest.php
+END
+TbxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/TbxTest.php
+END
+XmlTmTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/XmlTmTest.php
+END
+ArrayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/ArrayTest.php
+END
+QtTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/QtTest.php
+END
+IniTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/IniTest.php
+END
+CsvTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Translate/Adapter/CsvTest.php
+END

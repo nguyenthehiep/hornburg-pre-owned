@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader
+END
+bootstrap.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/bootstrap.js
+END
+hostenv_rhino.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/hostenv_rhino.js
+END
+hostenv_browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/hostenv_browser.js
+END
+loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/loader.js
+END
+loader_xd.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/loader_xd.js
+END
+hostenv_ff_ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/hostenv_ff_ext.js
+END
+hostenv_spidermonkey.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/hostenv_spidermonkey.js
+END
+loader_debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/_base/_loader/loader_debug.js
+END

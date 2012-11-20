@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/uuid
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/uuid/_base.js
+END
+generateRandomUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/uuid/generateRandomUuid.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/uuid/README
+END
+Uuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/uuid/Uuid.js
+END
+generateTimeBasedUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/uuid/generateTimeBasedUuid.js
+END

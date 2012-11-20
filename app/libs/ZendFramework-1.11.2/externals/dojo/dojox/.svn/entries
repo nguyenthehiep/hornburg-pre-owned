@@ -1,0 +1,524 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+LICENSE
+file
+
+
+
+
+2012-10-24T09:53:26.815000Z
+622c64e8b64ec710f35d56bd83d073f1
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+analytics
+dir
+
+analytics.js
+file
+
+
+
+
+2012-10-24T09:53:17.728000Z
+be57e4bcdcf8c94976c680f585b58e53
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+atom
+dir
+
+av
+dir
+
+charting
+dir
+
+collections
+dir
+
+collections.js
+file
+
+
+
+
+2012-10-24T09:53:17.597000Z
+134886030378e7fc92c4d1c4a2ec52e0
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+color
+dir
+
+color.js
+file
+
+
+
+
+2012-10-24T09:53:13.147000Z
+2e9d3d0e7c477d92fc22c1374c078f8f
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+cometd
+dir
+
+cometd.js
+file
+
+
+
+
+2012-10-24T09:53:23.626000Z
+b9cb8b78bf17f9db9dff0d68905c5b2d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+css3
+dir
+
+data
+dir
+
+date
+dir
+
+dnd
+dir
+
+drawing
+dir
+
+drawing.js
+file
+
+
+
+
+2012-10-24T09:53:14.750000Z
+4135f61a85cf30a1b763fb3acb6608fb
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+dtl
+dir
+
+dtl.js
+file
+
+
+
+
+2012-10-24T09:53:13.152000Z
+c7667b9ac389555d7ddad00b7f5b30da
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+editor
+dir
+
+embed
+dir
+
+encoding
+dir
+
+flash
+dir
+
+flash.js
+file
+
+
+
+
+2012-10-24T09:53:17.816000Z
+476c69a36baae15b38b598c558e4d7fe
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+form
+dir
+
+fx
+dir
+
+fx.js
+file
+
+
+
+
+2012-10-24T09:53:17.592000Z
+67c47b48cbd0a414327a739ee289f856
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+geo
+dir
+
+gfx
+dir
+
+gfx.js
+file
+
+
+
+
+2012-10-24T09:53:34.962000Z
+ec74335e2d15c17630b9454b710911a6
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+gfx3d
+dir
+
+gfx3d.js
+file
+
+
+
+
+2012-10-24T09:53:23.632000Z
+4ced74b7ca6f947b2963dc5139f31a0c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+grid
+dir
+
+help
+dir
+
+highlight
+dir
+
+highlight.js
+file
+
+
+
+
+2012-10-24T09:53:18.023000Z
+fc7b8ae3c7576514315ebcb8c38b322f
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+html
+dir
+
+html.js
+file
+
+
+
+
+2012-10-24T09:53:12.007000Z
+7731ced165c51bd1d2336d62bb7a7f6f
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+image
+dir
+
+image.js
+file
+
+
+
+
+2012-10-24T09:53:34.957000Z
+c6cd7e4c28e401edb664ea9120a9ae36
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+io
+dir
+
+jq
+dir
+
+jq.js
+file
+
+
+
+
+2012-10-24T09:53:12.655000Z
+56d08c0275f9cb4dab001c5f2f55dd8e
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+json
+dir
+
+jsonPath
+dir
+
+jsonPath.js
+file
+
+
+
+
+2012-10-24T09:53:24.728000Z
+a111c4a2b4f3b460609dcf023c2482aa
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+lang
+dir
+
+layout
+dir
+
+math
+dir
+
+math.js
+file
+
+
+
+
+2012-10-24T09:53:24.906000Z
+f1b1abc01fc93a56c2e26a887c104a27
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+mdnd
+dir
+
+mobile
+dir
+
+mobile.js
+file
+
+
+
+
+2012-10-24T09:53:26.818000Z
+2c487c4e9b69827c97870845c8c991d0
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+rails
+dir
+
+rails.js
+file
+
+
+
+
+2012-10-24T09:53:17.587000Z
+39e37e2966db96b69a44cef42b4e6b5d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+resources
+dir
+
+robot
+dir
+
+rpc
+dir
+
+secure
+dir
+
+sketch
+dir
+
+sketch.js
+file
+
+
+
+
+2012-10-24T09:53:17.603000Z
+75a0baba3f8a5e76104eb197b3e17302
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+sql
+dir
+
+sql.js
+file
+
+
+
+
+2012-10-24T09:53:41.111000Z
+6dd1da20a8c5f8915d27dd0dcc107921
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+storage
+dir
+
+storage.js
+file
+
+
+
+
+2012-10-24T09:53:18.013000Z
+f0a54cb87938c3c133025fa02fcc94b2
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+string
+dir
+
+testing
+dir
+
+timing
+dir
+
+timing.js
+file
+
+
+
+
+2012-10-24T09:53:17.733000Z
+f9aeac8b4574a2591ee057e4b0c9dba5
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+uuid
+dir
+
+uuid.js
+file
+
+
+
+
+2012-10-24T09:53:26.810000Z
+7042da2d4823f326e4695daffde37228
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+validate
+dir
+
+validate.js
+file
+
+
+
+
+2012-10-24T09:53:14.467000Z
+c0f152e5e822abbe2704fe05dc4b83d6
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+widget
+dir
+
+wire
+dir
+
+wire.js
+file
+
+
+
+
+2012-10-24T09:53:18.018000Z
+21f0e9260a1ef551085356894a480dd8
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+xml
+dir
+
+xmpp
+dir
+

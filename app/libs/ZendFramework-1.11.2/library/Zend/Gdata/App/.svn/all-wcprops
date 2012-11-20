@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App
+END
+AuthException.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/AuthException.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/InvalidArgumentException.php
+END
+MediaEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/MediaEntry.php
+END
+HttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/HttpException.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/Feed.php
+END
+CaptchaRequiredException.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/CaptchaRequiredException.php
+END
+IOException.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/IOException.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/Extension.php
+END
+LoggingHttpClientAdapterSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/LoggingHttpClientAdapterSocket.php
+END
+FeedSourceParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/FeedSourceParent.php
+END
+BadMethodCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/BadMethodCallException.php
+END
+VersionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/VersionException.php
+END
+MediaFileSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/MediaFileSource.php
+END
+Util.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/Util.php
+END
+MediaSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/MediaSource.php
+END
+FeedEntryParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/FeedEntryParent.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/Base.php
+END
+BaseMediaSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/BaseMediaSource.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/Entry.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Gdata/App/Exception.php
+END

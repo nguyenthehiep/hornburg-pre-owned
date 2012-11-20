@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common
+END
+commonPackageInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/commonPackageInfo.php
+END
+IgnoreCaseMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/IgnoreCaseMap.php
+END
+RedirectUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/RedirectUtil.php
+END
+ConnectUrlMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/ConnectUrlMap.php
+END
+GPayException.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/GPayException.php
+END
+JobCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/JobCode.php
+END
+LogFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/LogFormatter.php
+END
+ParamParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/ParamParser.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/Log.php
+END
+Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/Method.php
+END
+Cryptgram.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/common/Cryptgram.php
+END

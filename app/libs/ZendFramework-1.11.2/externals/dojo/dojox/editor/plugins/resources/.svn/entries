@@ -1,0 +1,79 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/editor/plugins/resources
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+css
+dir
+
+editorPlugins.css
+file
+
+
+
+
+2012-10-24T09:53:32.909000Z
+4e3e135d5e55c62bebd93f1aa02794cc
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+emoticons
+dir
+
+icons
+dir
+
+images
+dir
+
+insertTable.html
+file
+
+
+
+
+2012-10-24T09:53:32.914000Z
+dd64735c8198489e2ba84d9da866052b
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+modifyTable.html
+file
+
+
+
+
+2012-10-24T09:53:33.161000Z
+6f34e95f126105d733ae47e61fc36102
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

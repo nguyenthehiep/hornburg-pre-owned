@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer
+END
+SecurityTokenResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/SecurityTokenResponse.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/Interface.php
+END
+GetTokensResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/GetTokensResponse.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/Exception.php
+END

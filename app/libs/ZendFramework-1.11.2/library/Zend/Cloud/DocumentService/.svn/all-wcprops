@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService
+END
+Document.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Document.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Adapter.php
+END
+QueryAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/QueryAdapter.php
+END
+DocumentSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/DocumentSet.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Query.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Exception.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Cloud/DocumentService/Factory.php
+END

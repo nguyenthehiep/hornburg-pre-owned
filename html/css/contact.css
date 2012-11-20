@@ -1,0 +1,45 @@
+.help-inline {
+	color:red;
+      display : block;
+  }
+
+  #tertiary-content div {
+    display     : block;
+    width       : 45%;
+    overflow    : visible;
+    white-space : nowrap;
+  }
+
+  #tertiary-content form {
+    padding-right: 10px;
+  }
+
+
+  textarea#options  {
+    width   : 412px !important;
+    height  : 75px;
+    display : inline-block;
+  }
+
+  #footer {
+    margin-top: 10px;
+  }
+
+  #submit {
+    position: relative;
+    margin-left: 100%;
+    left: -55px;
+
+  }
+  .control-group input{
+	height: 26px;
+}
+li .active{
+	background-color: #0D8AA0;
+}
+
+#send{
+	width: 70px;
+	height: 32px;
+	margin-top: 4px;
+}

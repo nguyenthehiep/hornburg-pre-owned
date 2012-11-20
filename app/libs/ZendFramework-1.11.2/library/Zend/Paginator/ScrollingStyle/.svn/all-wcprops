@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Paginator/ScrollingStyle
+END
+Elastic.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Paginator/ScrollingStyle/Elastic.php
+END
+Jumping.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Paginator/ScrollingStyle/Jumping.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Paginator/ScrollingStyle/Interface.php
+END
+All.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Paginator/ScrollingStyle/All.php
+END
+Sliding.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Paginator/ScrollingStyle/Sliding.php
+END

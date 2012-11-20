@@ -1,0 +1,63 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/mobile/themes
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+android
+dir
+
+buttons-compat.css
+file
+
+
+
+
+2012-10-24T09:53:15.642000Z
+d08598c00f73405944f08574d611cda8
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+buttons.css
+file
+
+
+
+
+2012-10-24T09:53:15.637000Z
+c21b3d5cc00d6c43f689e0a6a2b2ad30
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+compat
+dir
+
+iphone
+dir
+

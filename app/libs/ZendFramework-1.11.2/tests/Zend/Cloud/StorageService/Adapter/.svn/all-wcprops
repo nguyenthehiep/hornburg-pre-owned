@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Cloud/StorageService/Adapter
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Cloud/StorageService/Adapter/AllTests.php
+END
+S3Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Cloud/StorageService/Adapter/S3Test.php
+END
+NirvanixTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Cloud/StorageService/Adapter/NirvanixTest.php
+END
+WindowsAzureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Cloud/StorageService/Adapter/WindowsAzureTest.php
+END
+FileSystemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Cloud/StorageService/Adapter/FileSystemTest.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation
+END
+InsertTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation/InsertTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation/AllTests.php
+END
+TruncateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation/TruncateTest.php
+END
+DeleteAllTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation/DeleteAllTest.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search
+END
+QueryParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/QueryParser.php
+END
+QueryEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/QueryEntry.php
+END
+BooleanExpressionRecognizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/BooleanExpressionRecognizer.php
+END
+QueryHit.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/QueryHit.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/Query.php
+END
+QueryToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/QueryToken.php
+END
+Similarity.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/Similarity.php
+END
+QueryParserException.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/QueryParserException.php
+END
+Weight.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/Weight.php
+END
+QueryParserContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/QueryParserContext.php
+END
+QueryLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Search/Lucene/Search/QueryLexer.php
+END

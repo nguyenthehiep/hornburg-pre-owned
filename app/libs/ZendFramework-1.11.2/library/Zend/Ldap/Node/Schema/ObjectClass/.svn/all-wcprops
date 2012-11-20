@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Ldap/Node/Schema/ObjectClass
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Ldap/Node/Schema/ObjectClass/OpenLdap.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Ldap/Node/Schema/ObjectClass/Interface.php
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Ldap/Node/Schema/ObjectClass/ActiveDirectory.php
+END

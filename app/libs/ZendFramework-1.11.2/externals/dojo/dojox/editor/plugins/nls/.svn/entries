@@ -1,0 +1,310 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/editor/plugins/nls
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+Blockquote.js
+file
+
+
+
+
+2012-10-24T09:53:31.420000Z
+46f380f9ff68c128b51c6291fc826a90
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Breadcrumb.js
+file
+
+
+
+
+2012-10-24T09:53:31.237000Z
+be973f661f56f48f7b83f8457135433c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+CollapsibleToolbar.js
+file
+
+
+
+
+2012-10-24T09:53:31.632000Z
+c0b0357c5f37c2a63c0d974767e93032
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+FindReplace.js
+file
+
+
+
+
+2012-10-24T09:53:29.274000Z
+3abdf540109d2a834ecd6ddda26eb29d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+InsertAnchor.js
+file
+
+
+
+
+2012-10-24T09:53:32.522000Z
+d08689042e78c3cebffb94e6343281c0
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+InsertEntity.js
+file
+
+
+
+
+2012-10-24T09:53:30.715000Z
+8a33b717e507420d2b0fc34b2074873e
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+PageBreak.js
+file
+
+
+
+
+2012-10-24T09:53:29.656000Z
+c3654335aad270a108af516e55d261d2
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+PasteFromWord.js
+file
+
+
+
+
+2012-10-24T09:53:32.252000Z
+7ddc75e3ac9418e78b71e2c076ba3186
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Preview.js
+file
+
+
+
+
+2012-10-24T09:53:29.661000Z
+a544a47f1dec464277aee5958fea1b24
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Save.js
+file
+
+
+
+
+2012-10-24T09:53:30.538000Z
+b16c86d85a487c43c551bae8f9b5637f
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+ShowBlockNodes.js
+file
+
+
+
+
+2012-10-24T09:53:31.637000Z
+32fd3ea5fbee3d71a82f9329376a5130
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Smiley.js
+file
+
+
+
+
+2012-10-24T09:53:32.653000Z
+78e46fa811237b677d78b2772e445022
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+TableDialog.js
+file
+
+
+
+
+2012-10-24T09:53:31.242000Z
+30cc3c68f3dde567b162f612e39e4995
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+TextColor.js
+file
+
+
+
+
+2012-10-24T09:53:29.700000Z
+7f39982be1442ebda41d2b4e0848b44e
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+ar
+dir
+
+ca
+dir
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+he
+dir
+
+hu
+dir
+
+it
+dir
+
+ja
+dir
+
+kk
+dir
+
+ko
+dir
+
+latinEntities.js
+file
+
+
+
+
+2012-10-24T09:53:29.268000Z
+dfa3092da7e870eba16dc070bfc02e28
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+nb
+dir
+
+nl
+dir
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ro
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-tw
+dir
+

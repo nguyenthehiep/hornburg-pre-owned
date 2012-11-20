@@ -1,0 +1,128 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/form/nls
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+PasswordValidator.js
+file
+
+
+
+
+2012-10-24T09:53:38.174000Z
+7e75f218c9dbe896f820e599afe0f5f5
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+ar
+dir
+
+ca
+dir
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+he
+dir
+
+hu
+dir
+
+it
+dir
+
+ja
+dir
+
+kk
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ro
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-tw
+dir
+

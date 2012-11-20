@@ -1,0 +1,375 @@
+<?php
+
+require_once('Zend/Db/Table/Abstract.php');
+require_once('Zend/Config/Ini.php');
+
+
+class common_util {
+	private static $_db;
+	private static $_vindb;
+
+	//DB CONNECTION
+	public static function db_connect() {
+		if(self::$_db == null){
+			$config = new Zend_Config_Ini( dirname(__FILE__) . "/../config.ini", "database" );
+			$params = array('host'	 => $config->params->host,
+							'username' => $config->params->username,
+							'password' => $config->params->password,
+							'dbname'   => $config->params->dbname,
+							'charset'  => 'utf8',
+							'profiler' => true
+			);
+			self::$_db = Zend_Db::factory( $config->adapter, $params );
+			Zend_Db_Table_Abstract::setDefaultAdapter( self::$_db );
+		}
+		return self::$_db;
+	}
+	
+	public static function vindb_connect() {
+		if(self::$_vindb == null){
+			$vin_config = new Zend_Config_Ini( dirname(__FILE__) . "/../config.ini", "vin-db" );
+			$vin_params = array('host'		=> $vin_config->vin_params->host,
+								'username'	=> $vin_config->vin_params->username,
+								'password'	=> $vin_config->vin_params->password,
+								'dbname'	=> $vin_config->vin_params->dbname,
+								'charset'	=> 'utf8',
+								'profiler'	=> true
+			);
+			self::$_vindb = Zend_Db::factory( $vin_config->adapter, $vin_params );
+			Zend_Db_Table_Abstract::setDefaultAdapter( self::$_vindb );
+		}
+		return self::$_vindb;
+	}
+
+	public static function check_device() {
+
+		$agent = $_SERVER['HTTP_USER_AGENT'];
+		if(preg_match("/iPhone/",$agent)){
+			$result = "pc";
+		}else if(preg_match("/Android/", $agent)){
+			$result = "pc";
+		} else if(preg_match("/DoCoMo/",$agent)){
+			$result = "mobile";
+		}else if(preg_match("/^UP.Browser|^KDDI/", $agent)){
+			$result = "mobile";
+		}else if(preg_match("/^J-PHONE|^Vodafone|^SoftBank/", $agent)){
+			$result = "mobile";
+		} else {
+			$result = "pc";
+		}
+		return $result;
+	}
+
+
+	public static function create_password($length = 8){
+		for ($password = '', $i = 0; $i < $length; $i++)
+		{
+			$str = base_convert((string) rand(0, 35), 10, 36);
+			$password .= (rand(0, 1) ? strtoupper($str) : $str);
+		}
+		return $password;
+	}
+
+	public static function create_json($json_array) {
+		if (is_array($json_array) && count($json_array) > 0) {
+			return Zend_Json::encode($json_array);
+		} else {
+			return '[]';
+		}
+	}
+
+	public static function send_mail($templete_name, $assign_array, $to_name, $to_mailaddress, $mode="normal") {
+		require_once(dirname(__FILE__) ."/qdmail.php");
+		$config = new Zend_Config_Ini( dirname(__FILE__) . "/../config.ini" );
+		require( $config->path->mail . $templete_name . ".php" );
+		$to = array( $to_mailaddress , $to_name.'ã€€' );
+		$other_heder['from'][] = array($from_mailaddress, $from_name);
+		$option = array(
+			'type' => 'text',
+			'option'=>array('mtaOption'=>'-f '.$config->mail->from_address),
+		);
+		$return_flag = @qd_send_mail( $option , $to , $subject , $body , $other_heder);
+		if(!$return_flag){
+		}
+	}
+
+	// ===== Zend_Auth Start ===== //
+	public static function set_ZendAuth( $db, $user_id, $password ){
+
+		$auth = new Zend_Auth_Adapter_DbTable( $db, 'users', 'user_id', 'password' );
+		$auth->setIdentity( $user_id );
+		$auth->setCredential( $password );
+		$result = $auth->authenticate();
+		if($result->isValid()){
+			$data["user_id"] = $user_id;
+			Zend_Auth::getInstance()->getStorage()->write($data);
+			return true;
+		}
+		return false;
+	}
+	
+	// ===== Get Authentication Information Start ===== //
+	public static function get_auth_info( $db, $param ){
+		if ( empty( $param["username"] ) || empty( $param["password"] ) ) {
+			return false;
+		}
+
+		$user_info = self::validate_user( $db, $param["username"], $param["password"]);
+		if ( !is_array( $user_info ) || empty( $user_info["user_id"] ) ) {
+			return false;
+		}
+		return array( "user" => $user_info );
+	}
+	
+	// ===== Get Authentication Information End ===== //		
+	public static function validate_user( $db, $username, $password ) {
+		if ( empty( $username ) || empty( $password )){
+			return false;
+		}
+
+		$sql = $db->select();
+		$sql->from( "users", array ("user_id", "username") )			
+			->where( "users.password = :password" )
+			->where( "users.username = :username" );
+		
+			$ary[':username'] = $username;
+			$ary[':password'] = $password;		
+//var_dump("__toString($sql)");
+		$ret = $db->fetchRow($sql, $ary);
+		return empty($ret) ? false:$ret;
+	}
+	
+	public static function get_users_autologin_info( $db, $autologin_key ){
+		$sql = $db->select();
+		$sql->from( "users_autologin", array("user_id","user_password") )
+			->where( "autologin_key = :autologin_key" )
+			->where( "del_flg = 0" );
+		$ary[':autologin_key'] = $autologin_key;
+		$ret = $db->fetchRow($sql, $ary);
+		return empty($ret["user_id"]) ? array():$ret;
+	}
+	
+	//=== LOAD USER INFORMATION === //
+	public static function get_userinfo ($db, $user_id){
+		$sql = $db-> select();
+		$sql->from ( "users", "*");
+		$sql->where ("user_id = :user_id");		
+		
+		$ary['user_id'] = $user_id;
+		$ret = $db->fetchRow($sql, $ary);
+		return $ret;
+		
+	}
+	
+	
+	/*AUTO LOGIN ZONE*/
+	public static function get_autologin_cookie_info(){
+			$ret["random_id"]	= sha1( uniqid() . mt_rand() . time());
+			$ret["expire"]		= time() + 3600 * 24 * 365;
+			$ret["cookie_name"]	= self::get_autologin_cookie_name();
+			return $ret;
+	}
+	
+	public static function get_autologin_cookie_name(){
+			$config				= new Zend_Config_Ini( dirname(__FILE__) . "/../config.ini", "default" );
+			return $config->cookie->autologin_name;
+	}
+	
+	public static function insert_users_autologin( $db, $autologin_key, $user_id, $user_password ){
+		$ua  = empty($_SERVER["USER_AGENT"]) ? "": $_SERVER["USER_AGENT"];
+		$url = empty($_SERVER["REQUEST_URI"]) ? "": $_SERVER["REQUEST_URI"];
+		$data = array(
+			'autologin_key'		=> $autologin_key,
+			'user_id'			=> $user_id,
+			'user_password'		=> $user_password,
+			'request_uri'		=> $url,
+			'user_agent'		=> $ua,
+			'update_date'		=> new Zend_Db_Expr('now()')
+		);
+		$db->insert('users_autologin', $data);
+	}
+	
+	public static function delete_users_autologin( $db, $autologin_key ){
+		$where = array($db->quoteInto('autologin_key = ?', $autologin_key));
+		$rows_affected = $db->delete('users_autologin', $where);
+	}
+
+	public static function delete_users_autologin_from_user_id( $db, $user_id ){
+		$where = array($db->quoteInto('user_id = ?', $user_id));
+		$rows_affected = $db->delete('users_autologin', $where);
+	}	
+	
+	public static function check_domain_exclusion ( $db, $domain_name ){
+		$sql = $db->select();
+		$sql->from( "mst_domain_exclusion", "domain_exclusion_id" )
+			->where( "domain_name = :domain_name" );
+		$ary[':domain_name'] = $domain_name;
+		$ret = $db->fetchRow($sql, $ary);
+
+		return empty($ret["domain_exclusion_id"]) ? false:true;
+	}
+	/* Load manage data */	
+	public function load_management_data( $db){
+		$sql = $db->select();
+		$sql->from( "dealerinfo", "*" );			
+		
+		$ret = $db->fetchAll($sql);
+		return $ret;
+	}
+	
+	/* Load dealer data */	
+	public function load_dealer_info($db, $dealer_id){
+
+		$sql = $db->select();
+		$sql->from( "dealerinfo", "*" );
+		$sql->where( "dealer_id = :dealer_id" );			
+
+		$ary[':dealer_id'] = $dealer_id;
+		$ret = $db->fetchRow($sql, $ary);
+		return $ret;
+	}
+	
+	public function check_dealer_exist($db, $dealer_id) {
+		$sql = $db->select();
+		$sql->from( "dealerinfo", "*" );
+		$sql->where( "dealer_id = :dealer_id" );			
+
+		$ary[':dealer_id'] = $dealer_id;
+		$ret = $db->fetchRow($sql, $ary);
+	
+		return empty($ret["dealer_id"])? '1' : '9';
+	}
+	
+	/*DEALER REGIST*/
+	public function insert_dealer_info( $db, $dealer_info){
+						
+		$data = array(
+			'dealer_id'		=> $dealer_info["dealer_id"],
+			'name'			=> $dealer_info["name"],
+			'street'		=> $dealer_info["street"],
+			'city'			=> $dealer_info["city"],
+			'state'			=> $dealer_info["state"],
+			'zip'			=> $dealer_info["zip"],
+			'website'		=> $dealer_info["website"],
+			'logo'			=> $dealer_info["logo_image"],
+			'registdate'	=> new Zend_Db_Expr(' now() ')
+		);
+		$db->insert('dealerinfo', $data);
+	}
+	
+	/* UPDATE DEALER INFO*/
+	public function update_dealer_info( $db, $dealer_info){
+		$set = array();
+		$set["dealer_id"]	= $dealer_info["dealer_id"];
+		$set["name"]		= $dealer_info["name"];
+		$set["street"]		= $dealer_info["street"];
+		$set["city"]		= $dealer_info["city"];
+		$set["state"]		= $dealer_info["state"];
+		$set["zip"]			= $dealer_info["zip"];
+		$set["website"]		= $dealer_info["website"];			
+		$set["registdate"]	= new Zend_Db_Expr('now()');
+		
+		$where   = array(
+			$db->quoteInto('id = ?', $dealer_info["id"])
+			
+		);			
+		$db->update( 'dealerinfo', $set, $where );		
+	}
+	
+	public function delete_dealer_info( $db, $dealer_id){
+		
+		$where = $db->quoteInto('dealer_id = ?', $dealer_id);
+		$rows_affected = $db->delete('dealerinfo', $where);
+	}	
+	
+	
+	public function select_max_id($db, $tb_zone){
+		$sql = $db->select();
+		$sql->from( "$tb_zone",array(new Zend_Db_Expr('max(id) as maxId')));	
+		
+		$ret = $db->fetchRow($sql);
+		return $ret["maxId"];		
+	}
+	
+	// IMAGE UPLOAD //
+	public static function upload_dealer_logo ($db,$dealer_logo,$fileinfo) {
+		$file_url = array( "size_org"=>"");
+
+		if (empty ($fileinfo["tmp_name"]) || $fileinfo["error"] > 0) {
+			return $file_url;
+		}
+
+		$config = new Zend_Config_Ini( dirname(__FILE__) . "/../config.ini", "default" );
+		$file_path = $config->photo->logopath;
+		
+		if(copy ($fileinfo["tmp_name"],$file_path."/".$dealer_logo)) {
+		} else {
+			return $file_url;
+		}
+
+		$file_url["size_org"]	=  $config->photo->url.$config->photo->logo."/".$dealer_logo;		
+		return $file_url;
+	}
+	// VIN CONNECTION ZONE //
+	public function phone_pull($vin_db,$db,$dealer_id) {
+		
+		$sql = $vin_db->select();
+		$sql->from( "whitmanenterprisedealership", "Phone" );
+		$sql->where( "idWhitmanenterpriseDealership = :dealer_id" );			
+
+		$ary[':dealer_id'] = $dealer_id;
+		$ret = $vin_db->fetchRow($sql, $ary);
+		
+		return empty($ret["Phone"])? " not available" : $ret;
+	}
+	
+	// pulls dealer's inventory
+	public function inventory_pull_data($vin_db, $dealer_id, $sortby='SalePrice', $sort='DESC') {
+		$sql = $vin_db->select();
+		$sql->from( "whitmanenterprisedealershipinventory", "*" );
+		$sql->where( "DealershipId = :dealer_id" );			
+
+		$ary[':dealer_id'] = $dealer_id;
+		$ret = $vin_db->fetchAll($sql, $ary);
+
+		return empty($ret)? "" : $ret;
+		
+/*		
+		$sql = "SELECT * FROM whitmanenterprisedealershipinventory WHERE DealershipId = $dealer_id ORDER BY $sortby $sort";
+		// echo $sql;
+		$result = $conn->query($sql) or die(mysqli_error($conn));
+		$r = array();
+		while ($row = $result->fetch_assoc()) {
+			$item = new stdClass();
+			foreach ($row as $key => $val) {
+				if (strtolower($key) == 'thumbnailimageurl' || strtolower($key) === 'carimageurl') {
+					$val = str_replace('|', ',', $val);
+					$item->{strtolower($key)} = explode(',', $val);
+				} else if (strtolower($key) == 'saleprice') {
+					if (!is_numeric($val)) {
+						$item->saleprice = 'Call for Price!';
+					} else {
+						$item->saleprice = '$'.number_format($val);
+					}
+				} else if (strtolower($key) == 'mileage') {
+					if (!is_numeric($val)) {
+						$item->mileage = 'Call for Mileage!';
+					} else {
+						$item->mileage = number_format($val);
+					}
+				} else {
+					$item->{strtolower($key)} = $val;
+				}
+				$item->title = $row['ModelYear'].' '.$row['Make'].' '.$row['Model'].' '.$row['Trim'];
+				$item->sum = substr($row['Descriptions'], 0, 225).'...';
+				$item->website = $dealer->website;
+				$item->profile_link = 'http://vinlineup.com/'.url($dealer->title).'/'.$dealer->dealer_id;
+			}
+			$r[] = $item;
+		}
+		$result->free_result();
+		return $r;
+		*/
+	}		
+}
+?>

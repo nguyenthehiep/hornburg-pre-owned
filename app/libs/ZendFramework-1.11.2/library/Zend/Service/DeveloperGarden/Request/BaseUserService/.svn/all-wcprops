@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/BaseUserService
+END
+GetQuotaInformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetQuotaInformation.php
+END
+GetAccountBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetAccountBalance.php
+END
+ChangeQuotaPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/BaseUserService/ChangeQuotaPool.php
+END

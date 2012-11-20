@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files
+END
+TestKeyInfoSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestKeyInfoSuccess.xml
+END
+TestKeyInfoResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestKeyInfoResult.xml
+END
+TestSearchSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestSearchSuccess.xml
+END
+TestTagSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestTagSuccess.xml
+END
+TestWeblog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestWeblog.xml
+END
+TestCosmosResultSetSiteLink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetSiteLink.xml
+END
+TestCosmosResultSetBlogWeblog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetBlogWeblog.xml
+END
+TestBlogPostTagsSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogPostTagsSuccess.xml
+END
+TestCosmosResultSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSet.xml
+END
+TestTagsResultSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestTagsResultSet.xml
+END
+TestBlogPostTagsError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogPostTagsError.xml
+END
+TestDailyCountsError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestDailyCountsError.xml
+END
+TestCosmosResultSetBlogLink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetBlogLink.xml
+END
+TestCosmosResultSetBlogLinkClaim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetBlogLinkClaim.xml
+END
+TestTagError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestTagError.xml
+END
+TestBlogPostTagsErrorUrlNotWeblog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogPostTagsErrorUrlNotWeblog.xml
+END
+TestCosmosResultSetBlogWeblogClaim2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetBlogWeblogClaim2.xml
+END
+TestBlogInfoErrorUrlNotWeblog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogInfoErrorUrlNotWeblog.xml
+END
+TestBlogInfoError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogInfoError.xml
+END
+TestAuthorNullFields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestAuthorNullFields.xml
+END
+TestWeblogTwoAuthors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestWeblogTwoAuthors.xml
+END
+TestTopTagsSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestTopTagsSuccess.xml
+END
+TestDailyCountsSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestDailyCountsSuccess.xml
+END
+TestGetInfoError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestGetInfoError.xml
+END
+TestBlogInfoSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogInfoSuccess.xml
+END
+TestTopTagsError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestTopTagsError.xml
+END
+TestCosmosResultSetSiteWeblog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetSiteWeblog.xml
+END
+TestError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestError.xml
+END
+TestSearchResultSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestSearchResultSet.xml
+END
+TestDailyCountsResultSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestDailyCountsResultSet.xml
+END
+TestCosmosResultSetSiteWeblogWithMissingInboundblogs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetSiteWeblogWithMissingInboundblogs.xml
+END
+TestAuthor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestAuthor.xml
+END
+TestCosmosResultSetSiteUrlWithInvalidSchema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetSiteUrlWithInvalidSchema.xml
+END
+TestGetInfoResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestGetInfoResult.xml
+END
+TestCosmosError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosError.xml
+END
+TestKeyInfoError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestKeyInfoError.xml
+END
+TestCosmosSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosSuccess.xml
+END
+TestCosmosResultSetBlogWeblogClaim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestCosmosResultSetBlogWeblogClaim.xml
+END
+TestBlogInfoResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogInfoResult.xml
+END
+TestTagResultSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestTagResultSet.xml
+END
+MISSING
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/MISSING
+END
+TestGetInfoSuccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestGetInfoSuccess.xml
+END
+TestBlogInfoResultUrlWithInvalidSchema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Technorati/_files/TestBlogInfoResultUrlWithInvalidSchema.xml
+END

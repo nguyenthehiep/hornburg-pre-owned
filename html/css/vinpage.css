@@ -1,0 +1,395 @@
+#financing-menus {
+	display: none;
+	width: 156px;
+	height: 77px;
+	position: absolute;
+	background-color: #C6E5F7;
+	z-index: 96;
+	margin-left: -2px;
+	margin-top: -5px;
+}
+.finance-menus-li {
+	list-style: none;
+	text-decoration: none;
+	padding-bottom: 3px;
+	padding-top: 7px;
+	width: 100%;
+	height: 20px !important;
+	color: white;
+}
+.finance-menus-li a {
+	padding-left: 10px !important;
+	padding-top: 7px !important;
+	border-right: 0px !important;
+	padding-bottom: 13px !important;
+	padding-right: 27px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #11728F;
+}
+
+.finance-menus-li:hover{
+	background-color: #11728F;
+	color:white!important;
+}
+.finance-menus-li a:hover {
+	text-decoration:none !important;
+	color: white !important;
+}
+
+#inventory-menus {
+	display:none;
+	width: 150px;
+	height: 100px;
+	position: absolute;
+	background-color:#C6E5F7;
+	z-index: 96;
+	margin-left: -2px;
+	margin-top: -5px;
+}
+.inventory-menus-li {
+	
+	list-style: none;
+	text-decoration: none;
+	padding-bottom: 3px;
+	padding-top: 7px;
+	width: 100%;
+	height: 20px !important;
+	color: white;
+}
+.inventory-menus-li:hover{
+	background-color: #11728F;
+	color:white!important;
+}
+.inventory-menus-li a:hover {
+	text-decoration:none !important;
+	color: white !important;
+}
+
+.inventory-menus-li a {
+	padding-left:10px !important;
+	padding-top:7px !important;
+	border-right: 0px !important;
+	padding-bottom:13px !important;
+	padding-right:27px;
+	font-weight:bold;
+	text-decoration:none;
+	color: #11728F;
+}
+
+#tertiary-contact-wrapper, #tertiary-contact form {
+	margin-top: 0 !important;
+	margin-bottom: 5px !important;
+	color: black;
+}
+.pager a {
+	border: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	background: none !important;
+}
+#tertiary-contact input[type="submit"] {
+	background: #11728f;
+	color: white;
+}
+#tertiary-contact input[type="submit"]:hover {
+	background: #FF8647;
+}
+#inventory-slider {
+	background-color: #F3F9FB !important;
+	padding-top: 10px;
+	text-align: center;
+	width: 952px;
+	height: auto;
+	white-space: nowrap;
+	position: relative;
+}
+#inventory-slider .inline-cell {
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	margin-left: 6px;
+	margin-right: 7px;
+	margin-top: 7px;
+	margin-bottom: 8px;
+	width: 155px;
+	height: 120px;
+	background: #3f3f3f;
+}
+#inventory-slider-wrapper {
+	position: relative;
+	height: 145px !important;
+}
+#prev, #next {
+	width: 50px;
+	height: 125px;
+	background: black;
+	position: absolute;
+	cursor: pointer;
+	z-index: 1001;
+}
+legend {
+	margin-bottom: 22;
+}
+#prev {
+	top: 15px;
+	left: 5px;
+	background: url('../images/btn-left.png') no-repeat;
+	background-size: 100% 100%;
+}
+#prev:hover {
+	background: url('../images/btn-left.png') no-repeat;
+	background-size: 100% 100%;
+}
+.ie8 #next{
+	
+}
+#next {
+	top: 15px;
+	right: 5px;
+	background: url('../images/btn-right.png') no-repeat;
+	background-size: 100% 100%;
+}
+#next:hover {
+	background: url('../images/btn-right.png') no-repeat;
+	background-size: 100% 100%;
+}
+table.imageMid, table.imageMid td {
+	overflow: hidden;
+	width: 155px !important;
+	height: 120px !important;
+	background: transparent !important;
+}
+
+#content .cell {
+	display: block;
+	min-height: 90px;
+	padding-bottom: 4px;
+}
+.display-all-cars {
+	font-size: 20px;
+	margin-top: 5px;
+}
+
+#inventory-slider-wrapper .bx-wrapper {
+	height: 150px;
+}
+#inventory-slider-wrapper .bx-window {
+	overflow: visible !important;
+}
+#price-ranges .home-price-btn {
+	background: url('../images/home-btns.png') top left no-repeat;
+}
+#price-ranges #btn-10 {
+	background-position: 0px -37px;
+}
+#price-ranges #btn-15 {
+	background-position: 0px -74px;
+}
+#price-ranges #btn-20 {
+	background-position: 0px -111px;
+}
+#price-ranges #btn-all {
+	background-position: 0px -148px;
+}
+#price-ranges #btn-5:hover {
+	background-position: -252px 0px;
+}
+#price-ranges #btn-10:hover {
+	background-position: -252px -37px;
+}
+#price-ranges #btn-15:hover {
+	background-position: -252px -74px;
+}
+#price-ranges #btn-20:hover {
+	background-position: -252px -111px;
+}
+#price-ranges #btn-all:hover {
+	background-position: -252px -148px;
+}
+#inventory-slider {
+	background: none;
+	height: 121px;
+}
+#slider {
+	margin-bottom: 6px;
+}
+#inventory-slider > div {
+	z-index: 0;
+	background: url('../images/home-car-list-repeat.jpg') top left repeat-x;
+	height: 135px;
+	background-size: 100% 100%;
+	width: 952px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+#keywords {
+	float: left !important;
+	height: auto;
+	height: auto !important;
+	min-height: 28px !important;
+	width: 100%;
+}
+#cell1 {
+	float: left;
+	display: inline-block;
+	min-height: 275px !important;
+}
+#cell1 h4 {
+	font-size: 1.3em;
+	letter-spacing: 2px;
+	margin-bottom: 8px;
+}
+ul.location-list {
+	display: inline-block;
+	width: 25%;
+}
+#sidebar {
+	height:400px;
+	margin-top: 10px;
+}
+
+div.prev-hide {
+	height: 122px !important;
+	width: 42px !important;
+	background: url('../images/btn-left-hide.png') !important;
+}
+div.next-hide {
+	height: 122px !important;
+	width: 42px !important;
+	background: url('../images/btn-right-hide.png') !important;
+}
+#slider-cover {
+	height: 334px !important;
+}
+div.slide-img-info {
+	border-radius: 20px !important;
+	border: 4px solid;
+	width: 205px;
+	overflow: hidden;
+	position: absolute;
+	z-index: 10000;
+	background-color: white;
+	margin-top: -226px;
+	margin-left: -50px;
+}
+div.label-info-imgs {
+	width: 190px;
+	text-align: left;
+	margin-left: 8px;
+	font-weight: bold;
+	margin-top: 11px;
+	color: green;
+	font-size: 15px;
+}
+
+.fb-like {
+	position: relative;
+}
+.twitter-share-button {
+	position: relative;
+}
+.fb_iframe_widget span {
+	vertical-align: baseline !important;
+}
+#fb-tweet {
+	float: right;
+	margin-top: -20px;
+	width: 192px;
+	height: 30px;
+}
+
+.word-break {
+	white-space: -moz-pre-wrap; /* Mozilla */
+	white-space: -hp-pre-wrap; /* HP printers */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: pre-wrap; /* CSS 2.1 */
+	white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+	word-wrap: break-word; /* IE */
+	-moz-binding: url('xbl.xml#wordwrap'); /* Firefox (using XBL) */
+}
+div.label-info-imgs nobr {
+	color: #04C !important;
+}
+div.slide-img-info p {
+	font-style: italic;
+}
+
+#loading-select {
+
+	margin-left: 85px;
+	position: absolute;
+	width: 47px;
+	height: 48px;
+	background-repeat: no-repeat;
+	margin-top: 60px;
+}
+#loading-imgs {
+	margin-left: 60px;
+	margin-top: 35px;
+	width: 47px;
+	height: 48px;
+	background-repeat: no-repeat;
+}
+/* inventory page */
+.row.vehicle-listing {
+	margin-left: 0px;
+	border-radius: 10px !important;
+	-moz-border-radius: 10px !important;
+}
+.row.vehicle-listing .span9.listing-container {
+	width: 520px !important;
+}
+.span3.price {
+	width: 200px !important;
+}
+#filter {
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+.vehicle-listing {
+	margin-bottom: 8px;
+}
+
+/* end inventory*/
+
+li .active {
+	background-color: #0D8AA0;
+}
+
+a.financing-btn {
+	background: green !important;
+	color: white !important;
+	padding: .4em .7em .4em .7em;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 1.5em;
+	float: right;
+	margin-top: 10px;
+}
+a.financing-btn:hover {
+	background: darkgreen !important;
+	text-decoration: none !important;
+}
+
+#tertiary-content img {
+	float: left;
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 3px;
+}
+p.disclaimer {
+	font-size: .9em !important;
+}
+/* end finance page */
+
+.slider-imgs {
+	border-radius: 0px !important;
+	width: 155px !important;
+	height: 114px !important;
+	border: 1px solid gray;
+	float: left;
+	margin-left: 10px;
+}

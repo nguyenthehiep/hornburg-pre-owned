@@ -1,0 +1,59 @@
+<html>
+	<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="description" content="Welcome to Hornburg Pre-Owned, a premier car dealership in Newport Beach Orange County that focuses on providing the highest quality of customer service. If you are looking for a vast selection of used domestic or import models at affordable prices, then you are in the right place. Our beautiful Newport Beach dealership is filled with friendly and knowledgeable employees who are eager to assist you.">
+<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+	{include file="./include/pc_load_javascript.html"}
+	<link rel="stylesheet" href="/css/contact.css" type="text/css" media="all" />
+	<script type="text/javascript" src="/js/pages/pc_contact.js"></script>
+</head>
+<body>
+		<div class="container" id="wrapper">			
+{include file="./include/pc_header.html"}
+<script type="text/javascript">
+var flat = "contact";
+</script>
+<script type="text/javascript" src="/js/pages/pc_common.js"></script>
+
+		<div class="row specials" id="content">
+
+			<div class="span12" id="tertiary-cell">
+				<!-- MAIN COLUMN CELL -->
+
+				<!-- BEGIN EDIT CONTENT -->
+				<div id="tertiary-content">
+					<!-- AD CELLS -->
+					<h1>Contact Us!</h1>					
+						<legend>Contact Info</legend>
+						<div class="input-prepend control-group">
+							<span class="add-on" title="Name"><i class="icon-user icon-white"></i></span>
+							<input name="name" class="required" id="name" type="text" onfocus="if (this.value == 'Name') this.value = '';" onblur="if (this.value == '') this.value = 'Name';" value="Name"/>
+							<span class="red"> * </span>
+						</div>
+						<div class="input-prepend control-group">
+							<span class="add-on" title="Email"><i class="icon-envelope icon-white"></i></span>
+							<input name="email" class="required" id="email" type="text" onfocus="if (this.value == 'Email') this.value = '';" onblur="if (this.value == '') this.value = 'Email';" value="Email"/>
+							<span class="red"> * </span>
+						</div>
+						<div class="input-prepend control-group">
+							<span class="add-on" title="Phone"><b style="color: white !important;">#</b></span>
+							<input name="phone" class="number required" id="phone" type="text" onfocus="if (this.value == 'Phone Number') this.value = '';" onblur="if (this.value == '') this.value = 'Phone Number';" value="Phone Number"/>
+							<span class="red"> * </span>
+						</div>
+						<div class="input-prepend control-group">
+							<span class="add-on" title="Comments"><i class="icon-comment icon-white"></i></span>
+							<textarea name="comments" id="comments" onfocus="if (this.value == 'Add Comments') this.value = '';" onblur="if (this.value == '') this.value = 'Add Comments';">Add Comments</textarea>
+						</div>
+						<input type="button" name="send" id="submit-contact" value="Contact Us" style="background-color: #333;color: white;">				
+				</div>
+			</div>
+		{include file="./include/pc_dealer_info.html"}
+		</div>
+		<!-- END OF CONTENT ROW -->
+	</div>		
+{include file="./include/pc_footer.html"}
+</body>
+</html>

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall
+END
+GetParticipantStatusResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetParticipantStatusResponseType.php
+END
+GetConferenceTemplateListResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceTemplateListResponse.php
+END
+UpdateConferenceTemplateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/UpdateConferenceTemplateResponse.php
+END
+GetConferenceListResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceListResponse.php
+END
+AddConferenceTemplateParticipantResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/AddConferenceTemplateParticipantResponse.php
+END
+GetConferenceTemplateResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceTemplateResponseType.php
+END
+GetConferenceTemplateParticipantResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceTemplateParticipantResponseType.php
+END
+CCSResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/CCSResponseType.php
+END
+CreateConferenceTemplateResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/CreateConferenceTemplateResponseType.php
+END
+GetConferenceTemplateListResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceTemplateListResponseType.php
+END
+UpdateConferenceResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/UpdateConferenceResponse.php
+END
+GetRunningConferenceResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetRunningConferenceResponse.php
+END
+RemoveConferenceResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/RemoveConferenceResponse.php
+END
+UpdateConferenceTemplateParticipantResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/UpdateConferenceTemplateParticipantResponse.php
+END
+GetConferenceStatusResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceStatusResponseType.php
+END
+NewParticipantResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/NewParticipantResponse.php
+END
+GetConferenceTemplateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceTemplateResponse.php
+END
+GetConferenceTemplateParticipantResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceTemplateParticipantResponse.php
+END
+GetConferenceStatusResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceStatusResponse.php
+END
+CreateConferenceResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/CreateConferenceResponseType.php
+END
+CreateConferenceResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/CreateConferenceResponse.php
+END
+AddConferenceTemplateParticipantResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/AddConferenceTemplateParticipantResponseType.php
+END
+CommitConferenceResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/CommitConferenceResponse.php
+END
+RemoveConferenceTemplateParticipantResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/RemoveConferenceTemplateParticipantResponse.php
+END
+RemoveParticipantResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/RemoveParticipantResponse.php
+END
+CreateConferenceTemplateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/CreateConferenceTemplateResponse.php
+END
+GetConferenceListResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetConferenceListResponseType.php
+END
+RemoveConferenceTemplateResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/RemoveConferenceTemplateResponse.php
+END
+NewParticipantResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/NewParticipantResponseType.php
+END
+GetParticipantStatusResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetParticipantStatusResponse.php
+END
+GetRunningConferenceResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/GetRunningConferenceResponseType.php
+END
+UpdateParticipantResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/UpdateParticipantResponse.php
+END
+ConferenceCallAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Response/ConferenceCall/ConferenceCallAbstract.php
+END

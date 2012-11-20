@@ -1,0 +1,199 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/cldr/nls
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+ar
+dir
+
+buddhist.js
+file
+
+
+
+
+2012-10-24T09:53:43.097000Z
+529ec4df0c535ccb11b752f6247cd5ae
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+ca
+dir
+
+cs
+dir
+
+currency.js
+file
+
+
+
+
+2012-10-24T09:53:43.794000Z
+9e7075a47bd6e9b7d868b6cf13a3cbf6
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+en
+dir
+
+en-au
+dir
+
+en-ca
+dir
+
+en-gb
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+gregorian.js
+file
+
+
+
+
+2012-10-24T09:53:42.409000Z
+694dca10b30703864c348652759cc5d7
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+he
+dir
+
+hebrew.js
+file
+
+
+
+
+2012-10-24T09:53:42.344000Z
+cec39e361725f55aeac9ee33e678ec7d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+hu
+dir
+
+islamic.js
+file
+
+
+
+
+2012-10-24T09:53:42.532000Z
+6e20117c4e94a75b96ca3309437ebfcc
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+it
+dir
+
+ja
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+number.js
+file
+
+
+
+
+2012-10-24T09:53:43.686000Z
+1f4bc6c551332b44da43e00cd861dae5
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-tw
+dir
+

@@ -1,0 +1,70 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Ldap/Node/Schema
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+ActiveDirectory.php
+file
+
+
+
+
+2012-10-24T09:52:26.435000Z
+08709b82f36c80b1f05248b930429c65
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+AttributeType
+dir
+
+Item.php
+file
+
+
+
+
+2012-10-24T09:52:26.385000Z
+9f0b18bc31ead635e4d8a2a765bf002b
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+ObjectClass
+dir
+
+OpenLdap.php
+file
+
+
+
+
+2012-10-24T09:52:26.440000Z
+42136cf75b5b7a66cc4bf990b0ef9e9b
+2012-10-18T07:22:53.522953Z
+3
+eric
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/CodeGenerator/Php/_files
+END
+ClassAndInterfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/CodeGenerator/Php/_files/ClassAndInterfaces.php
+END
+TestClassWithCodeInMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/CodeGenerator/Php/_files/TestClassWithCodeInMethod.php
+END
+TestClassWithManyProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/CodeGenerator/Php/_files/TestClassWithManyProperties.php
+END
+TestSampleSingleClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/CodeGenerator/Php/_files/TestSampleSingleClass.php
+END

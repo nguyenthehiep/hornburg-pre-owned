@@ -1,0 +1,41 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Cloud/StorageService/_files/data
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+dummy_data.txt
+file
+
+
+
+
+2012-10-24T09:52:08.375000Z
+4d27a71d4db11306188ee613a533d444
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

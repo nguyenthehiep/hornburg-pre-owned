@@ -1,0 +1,404 @@
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<script src="/libraries/jquery.min.js" type="text/javascript"></script>
+		<script src="/libraries/underscore-min.js" type="text/javascript"></script>
+		<script src="/libraries/js.class.min.js" type="text/javascript"></script>
+		<script src="/js/json2.js" type="text/javascript"></script>
+		<link rel="stylesheet" href="/css/bootstrap.css" type="text/css" media="all" />
+		<script src="/libraries/jquery.maskedinput.js"></script>
+		
+		<link rel="stylesheet" href="/css/apply.css" type="text/css" media="all" />
+		<script src="/js/pages/pc_apply.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<div id="box-announce">Please select AGREE box to continues.</div>
+		<div id="apply-container">
+			<div id="apply-header">
+				<div id="ap-header-logo"> </div>
+				<div id="ap-header-text">
+					<h2>Credit Application for Vehicle Financing</h2>
+					<p>I am applying for individual credit in my own name and relying on my own income or assets for repayment of the credit requested.</p>
+					<p>You may apply for joint credit by clicking on Add Co-Applicant button.</p>
+				</div>
+			</div>
+			<div id="apply-holder">
+				<div id="apply-menu">
+					<ul class="nav nav-tabs">
+					  <li id="customer-info" class="active">
+					    <a href="javascript:void(0);">Customer Info</a>
+					  </li>
+					  <li id="vehicle-info"><a href="javascript:void(0);"> Vehicle Info</a></li>
+					  <li id="financing-info"><a href="javascript:void(0);"> Financing Info</a></li>
+					</ul>
+				</div>
+				<div id="apply-content"> </div>
+			</div>
+			
+			<div id="apply-footer">
+				<div id="ap-footer-top">
+					 <input type="checkbox" name="check-agree" id="check-agree" style="float: left;margin-right: 8px;" />
+					 <p><label for="check-agree">By clicking this box, I agree that this credit application is an electronic credit application submitted using electronic means and such means signifies my intent to submit this credit application to
+					 	<strong>HORNBURG PRE-OWNED</strong> to the same extent as if I had executed this credit application using my written signature.</label>
+					 	 </p>
+				</div> 
+				<div style="margin-left: 40px;margin-right: 40px;">
+					<p style="font-size: 10px">
+						By clicking the 'Submit' button, I agree that you, your affiliates, agents and service providers may monitor and record telephone calls regarding my account to assure the quality of your service or for other reasons. I also expressly consent and agree to you, your affiliates, agents and service providers using written, electronic or verbal means to contact me as the law allows. This consent includes, but is not limited to, contact by manual calling methods, prerecorded or artificial voice messages, text messages, emails and/or automatic telephone dialing systems. I agree you, your affiliates, agents and service providers may do so using any e-mail address or any telephone number I provide, now or in the future, including a number for a cellular phone or other wireless device, regardless of whether I incur charges as a result.
+
+						<br/>By clicking the 'Submit' button, I authorize <strong>HORNBURG PRE-OWNED</strong> and any finance company, bank or other financial institution to which the dealer submits my application ("you") to investigate my credit and employment history, obtain credit reports, and release information about your credit experience with me as the law permits. If an account is created, I authorize you to obtain credit reports for the purpose of reviewing or taking collection action on the account or for other legitimate purposes associated with the account. I certify that I have read and agree to the terms of this application and that the information in it is complete and true.
+					</p>
+				</div>
+				<div id="button-footer">
+					<a href="javascript:void(0);"><div class="button-holder" id="bt-print">Print</div></a>
+					<a href="javascript:void(0);"><div class="button-holder" id="bt-cancel">Cancel</div></a>
+					<a href="javascript:void(0);"><div class="button-holder" id="bt-next">Next</div></a>
+				</div>
+			</div>
+		</div>
+		<script id="base-apply" type="text/template">
+			<div id="apply-tag1">
+				<ul>
+					<li class="first">
+						<label class="apply-label required-input">First Name</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label">Middle Initial</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Last Name</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">E-mail Address</label>
+						<input class="apply-input-common apply-text" type="text" id="apply-email"/>
+					</li>
+					<li style="height: 105px;" class="">
+						<label class="apply-label required-input">Address</label>
+						<textarea class="apply-input-common apply-textarea"></textarea>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">City</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">State</label>
+						<select class="apply-input-common apply-select statelist">
+							<option>Select a State</option>
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Zip</label>
+						<input class="apply-input-common apply-text just-num" type="text" id="zip"/>
+					</li>
+					<li class="two-input">
+						<label class="apply-label required-input">Time at Address</label>
+						<label class="label-input-two">Years</label><input class="apply-input-common apply-two-text  just-num" id="taa-years" type="text" maxlength="3"/>
+						<label class="label-input-two">Months</label><input class="apply-input-common apply-two-text  just-num" id="taa-month" type="text" maxlength="2"/>
+					</li>
+					<div id="hiddenAddress" style="display: none">
+					<li class="hd-nearest">
+						<label class="apply-label">Previous Address</label>
+						<textarea class="apply-input-common apply-textarea"></textarea>
+					</li>
+					<li class="">
+						<label class="apply-label">Previous City</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label">Previous State</label>
+						<select class="apply-input-common apply-select statelist">
+							<option>Select a State</option>
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label">Previous ZIP</label>
+						<input class="apply-input-common apply-text just-num" type="text" id="prezip"/>
+					</li>
+					<li class="two-input">
+						<label class="apply-label">Previous Time at Address</label>
+						<label class="label-input-two">Years</label><input class="apply-input-common apply-two-text  just-num" id="taa-pre-years" type="text" maxlength="3"/>
+						<label class="label-input-two">Months</label><input class="apply-input-common apply-two-text  just-num" id="taa-pre-month" type="text" maxlength="2"/>
+					</li>
+					</div>
+					
+					
+					<li class="below-two-input">
+						<label class="apply-label required-input">Residence Type</label>
+						<select class="apply-input-common apply-select">
+							<option>Select a Residence Type</option>
+							<option>Owns home outrights</option>
+							<option>Living w/relatives</option>
+							<option>Renting/Leasing</option>
+							<option>Owns/buying mobile home</option>
+							<option>Unknown</option>
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Home Phone #</label>
+						<input class="apply-input-common apply-text" type="text" id="home-phone"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Cellular Phone #</label>
+						<input class="apply-input-common apply-text" type="text" id="cellular-phone"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">SSN</label>
+						<input class="apply-input-common apply-text" type="text" id="SSN"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">DOB(MM/DD/YYYY)</label>
+						<input class="apply-input-common apply-text" type="text" id="DOB"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Rent/Mortgage</label>
+						<input class="apply-input-common apply-text just-num" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Employment Title</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Employer Name</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Employer Phone #</label>
+						<input class="apply-input-common apply-text" type="text" id="employer-phone"/>
+					</li>
+				
+					<li class="two-input">
+						<label class="apply-label required-input">Time at Job</label>
+						<label class="label-input-two">Years</label><input class="apply-input-common apply-two-text just-num" id="taj-years" type="text" maxlength="3"/>
+						<label class="label-input-two">Months</label><input class="apply-input-common apply-two-text just-num" id="taj-months" type="text" maxlength="2"/>
+					</li>
+					
+					<div id="hiddenJob" style="display: none">
+					<li class="">
+						<label class="apply-label">Previous Employment Title</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label">Previous Employer Name</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label">Previous Employer Phone #</label>
+						<input class="apply-input-common apply-text" type="text" id="pre-employer-phone"/>
+					</li>
+				
+					<li class="two-input">
+						<label class="apply-label">Previous Time at Job</label>
+						<label class="label-input-two">Years</label><input class="apply-input-common apply-two-text just-num" id="taj-pre-years" type="text" maxlength="3"/>
+						<label class="label-input-two">Months</label><input class="apply-input-common apply-two-text just-num" id="taj-pre-months" type="text" maxlength="2"/>
+					</li>
+					</div>
+					
+					<li class="below-two-input">
+						<label class="apply-label required-input">Gross Monthly Income</label>
+						<input class="apply-input-common apply-text just-num" type="text" id="gr-monthly-income"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Income Interval</label>
+						<select class="apply-input-common apply-select">
+							<option>Select a Income Interval</option>
+							<option>Weekly</option>
+							<option>Bi-weekly</option>
+							<option>Semi-Monthly</option>
+							<option>Monthly</option>
+							<option>Yearly</option>
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label">Other Income Source</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label">Other Income Amount</label>
+						<input class="apply-input-common apply-text just-num" type="text" id="other-income-amount"/>
+					</li>
+					<li class="">
+						<label class="apply-label">Other Income Interval</label>
+						<select class="apply-input-common apply-select">
+							<option>Select a Income Interval</option>
+							<option>Weekly</option>
+							<option>Bi-weekly</option>
+							<option>Semi-Monthly</option>
+							<option>Monthly</option>
+							<option>Yearly</option>
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label">Salesperson</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					
+				</ul>
+			</div>
+		</script>
+		<script id="states-template" type="text/template">
+			<option value="AK">Alaska</option>
+			<option value="AL">Alabama</option>
+			<option value="AR">Arkansas</option>
+			<option value="AZ">Arizona</option>
+			<option value="CA">California</option>
+			<option value="CO">Colorado</option>
+			<option value="CT">Connecticut</option>
+			<option value="DC">District of Columbia</option>
+			<option value="DE">Delaware</option>
+			<option value="FL">Florida</option>
+			<option value="GA">Georgia</option>
+			<option value="HI">Hawaii</option>
+			<option value="IA">Iowa</option>
+			<option value="ID">Idaho</option>
+			<option value="IL">Illinois</option>
+			<option value="IN">Indiana</option>
+			<option value="KS">Kansas</option>
+			<option value="KY">Kentucky</option>
+			<option value="LA">Louisiana</option>
+			<option value="MA">Massachusetts</option>
+			<option value="MD">Maryland</option>
+			<option value="ME">Maine</option>
+			<option value="MI">Michigan</option>
+			<option value="MN">Minnesota</option>
+			<option value="MO">Missouri</option>
+			<option value="MS">Mississippi</option>
+			<option value="MT">Montana</option>
+			<option value="NC">North Carolina</option>
+			<option value="ND">North Dakota</option>
+			<option value="NE">Nebraska</option>
+			<option value="NH">New Hampshire</option>
+			<option value="NJ">New Jersey</option>
+			<option value="NM">New Mexico</option>
+			<option value="NV">Nevada</option>
+			<option value="NY">New York</option>
+			<option value="OH">Ohio</option>
+			<option value="OK">Oklahoma</option>
+			<option value="OR">Oregon</option>
+			<option value="PA">Pennsylvania</option>
+			<option value="PR">Puerto Rico</option>
+			<option value="RI">Rhode Island</option>
+			<option value="SC">South Carolina</option>
+			<option value="SD">South Dakota</option>
+			<option value="TN">Tennessee</option>
+			<option value="TX">Texas</option>
+			<option value="UT">Utah</option>
+			<option value="VA">Virginia</option>
+			<option value="VT">Vermont</option>
+			<option value="WA">Washington</option>
+			<option value="WI">Wisconsin</option>
+			<option value="WV">West Virginia</option>
+			<option value="WY">Wyoming</option>
+		</script>
+		<script id="vehicle-infor-template" type="text/template">
+			
+			<div id="apply-tag1">
+				<ul>
+					<li class="first">
+						<label class="apply-label">Trade Vehicle?</label>
+						<input type="radio" class="apply-radio radio-checked" name="apply-trade" id="trade-no" checked="checked""/> <label class="radio-common label-radio" for="trade-no">No</label>
+						<input type="radio" class="apply-radio" name="apply-trade" id="trade-yes" /> <label class="radio-common label-radio" for="trade-yes">Yes</label>
+					</li>
+					<li class="">
+						<label class="apply-label">New or Used?</label>
+						<input type="radio" class="apply-radio radio-checked" name="apply-new-used" id="trade-new" checked="checked""/> <label class="radio-common label-radio" for="trade-new">New</label>
+						<input type="radio" class="apply-radio" name="apply-new-used" id="trade-used" /> <label class="radio-common label-radio" for="trade-used">Used</label>
+					</li>
+					<li class="">
+						<label class="apply-label required-input" >Vehicle Year</label>
+						<select class="apply-input-common apply-select" id="select-year">
+							<option>Select a Year</option>
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Vehicle Make</label>
+						<select class="apply-input-common apply-select" id="select-make" disabled="disabled">
+							<option>Select a Make</option>
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Vehicle Model</label>
+						<select class="apply-input-common apply-select" id="select-model" disabled="disabled">
+							<option>Select a Model</option>
+							
+						</select>
+					</li>
+					<li class="">
+						<label class="apply-label">Vehicle Stock #</label>
+						<input class="apply-input-common apply-text" type="text"/>
+					</li>
+					<div class="hidden-tag2">
+						<li class="">
+							<label class="apply-label" >Trade Vehicle Year</label>
+							<select class="apply-input-common apply-select" id="trade-select-year">
+								<option>Select a Year</option>
+							</select>
+						</li>
+						<li class="">
+							<label class="apply-label">Trade Vehicle Make</label>
+							<select class="apply-input-common apply-select" id="trade-select-make" disabled="disabled">
+								<option>Select a Make</option>
+							</select>
+						</li>
+						<li id="li-others-make">
+							<label class="apply-label">Others Make</label>
+							<input id="others-make" class="apply-input-common apply-text" type="text">
+						</li>
+						
+						<li class="">
+							<label class="apply-label">Trade Vehicle Model</label>
+							<select class="apply-input-common apply-select" id="trade-select-model" disabled="disabled">
+								<option>Select a Model</option>
+							</select>
+						</li>
+						
+						<li id="li-others-model">
+							<label class="apply-label">Others Model</label>
+							<input id="others-model" class="apply-input-common apply-text" type="text">
+						</li>
+						
+					</div>
+				</ul>
+			</div>
+		</script>
+		
+		<script id="financing-info-template" type="text/template">
+			<div id="apply-tag1">
+				<ul>
+					<li class="first">
+						<label class="apply-label">Buy or Lease</label>
+						<input type="radio" class="apply-radio radio-checked" name="apply-buy-leave" id="trade-buy" checked="checked"/> <label class="radio-common label-radio" for="trade-buy">Buy</label>
+						<input type="radio" class="apply-radio" name="apply-buy-leave" id="trade-leave" /> <label class="radio-common label-radio" for="trade-leave">Leave</label>
+					</li>
+					
+					<li class="">
+						<label class="apply-label required-input">Monthly Payment</label>
+						<input class="apply-input-common apply-text just-num" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Term</label>
+						<input class="apply-input-common apply-text just-num" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Financed Amount</label>
+						<input class="apply-input-common apply-text just-num" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label required-input">Cash Down</label>
+						<input class="apply-input-common apply-text just-num" type="text"/>
+					</li>
+					<li class="">
+						<label class="apply-label">Comments</label>
+						<textarea class="apply-input-common apply-textarea" id="tag3-comment" style="width: 450px;float:left"></textarea>
+						<label style="width: 145px;margin-left: 18px;float: left">Characters Remaining :</label><label id="tag3-counter">200</label>
+					</li>
+				</ul>
+			</div>
+		</script>
+		<script>
+			var Appply = new ApplyClass();
+		</script>
+	</body>
+</html>

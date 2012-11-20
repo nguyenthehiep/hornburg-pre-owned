@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest
+END
+ProviderManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest/ProviderManifestable.php
+END
+MetadataManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest/MetadataManifestable.php
+END
+ActionManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest/ActionManifestable.php
+END
+Indexable.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest/Indexable.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest/Interface.php
+END
+Repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest/Repository.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Tool/Framework/Manifest/Exception.php
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend
+END
+NavigationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/NavigationTest.php
+END
+FilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/FilterTest.php
+END
+TimeSyncTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/TimeSyncTest.php
+END
+MimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/MimeTest.php
+END
+LocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/LocaleTest.php
+END
+OpenIdTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenIdTest.php
+END
+LoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/LoaderTest.php
+END
+UriTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/UriTest.php
+END
+VersionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/VersionTest.php
+END
+ExceptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/ExceptionTest.php
+END
+RegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/RegistryTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/AllTests.php
+END
+DateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/DateTest.php
+END
+ConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/ConfigTest.php
+END
+PaginatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/PaginatorTest.php
+END
+TranslateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/TranslateTest.php
+END
+CurrencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/CurrencyTest.php
+END
+ValidateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/ValidateTest.php
+END
+AuthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/AuthTest.php
+END
+JsonTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/JsonTest.php
+END
+DebugTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/DebugTest.php
+END
+ViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/ViewTest.php
+END

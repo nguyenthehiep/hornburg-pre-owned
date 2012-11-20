@@ -1,0 +1,143 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/date
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+README
+file
+
+
+
+
+2012-10-24T09:53:25.900000Z
+86ffcdbbc6d590473f8cfbca342b2ce1
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+buddhist
+dir
+
+buddhist.js
+file
+
+
+
+
+2012-10-24T09:53:25.615000Z
+321c1eb3ef9cf7948302347a04c6f117
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+hebrew
+dir
+
+hebrew.js
+file
+
+
+
+
+2012-10-24T09:53:25.728000Z
+dc54c2317a1611959392e5a986baa2d3
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+islamic
+dir
+
+islamic.js
+file
+
+
+
+
+2012-10-24T09:53:25.896000Z
+19bc9f5b8797f661747974c627678291
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+php.js
+file
+
+
+
+
+2012-10-24T09:53:25.666000Z
+3a6e2ee7c9d69121ed81e3af6b334005
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+posix.js
+file
+
+
+
+
+2012-10-24T09:53:25.904000Z
+fe9c635ca8fa22023a58eeb1d439f08e
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+relative.js
+file
+
+
+
+
+2012-10-24T09:53:25.723000Z
+f999c547c32f2b8f1d99553e36ffd1e6
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+timezone.js
+file
+
+
+
+
+2012-10-24T09:53:25.672000Z
+f6341e8e9015778036cdd7a87fa65cd6
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+zoneinfo
+dir
+

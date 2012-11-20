@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates
+END
+EntryHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates/EntryHeader.html
+END
+FeedViewerGrouping.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates/FeedViewerGrouping.html
+END
+PeopleEditor.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates/PeopleEditor.html
+END
+FeedViewerEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates/FeedViewerEntry.html
+END
+FeedEntryViewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates/FeedEntryViewer.html
+END
+FeedEntryEditor.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates/FeedEntryEditor.html
+END
+FeedViewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/atom/widget/templates/FeedViewer.html
+END

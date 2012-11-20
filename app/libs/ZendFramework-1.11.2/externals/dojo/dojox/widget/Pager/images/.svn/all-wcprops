@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/Pager/images
+END
+pageActive.png
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/Pager/images/pageActive.png
+END
+hNext.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/Pager/images/hNext.png
+END
+vPrevious.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/Pager/images/vPrevious.png
+END
+hPrevious.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/Pager/images/hPrevious.png
+END
+vNext.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/Pager/images/vNext.png
+END
+pageInactive.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/Pager/images/pageInactive.png
+END

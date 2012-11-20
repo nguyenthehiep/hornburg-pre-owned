@@ -1,0 +1,67 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/Flickr
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+AllTests.php
+file
+
+
+
+
+2012-10-24T09:51:24.061000Z
+2ea0bc7fb9f2d2f2c7f4c541dd6f9a4b
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+OfflineTest.php
+file
+
+
+
+
+2012-10-24T09:51:24.252000Z
+51d72c9af764da8a974b35e93f3eba35
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+OnlineTest.php
+file
+
+
+
+
+2012-10-24T09:51:24.255000Z
+a8eeb434d8e654347d8bf4173a28d453
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+_files
+dir
+

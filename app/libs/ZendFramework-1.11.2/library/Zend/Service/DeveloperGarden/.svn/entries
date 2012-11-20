@@ -1,0 +1,175 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+BaseUserService
+dir
+
+BaseUserService.php
+file
+
+
+
+
+2012-10-24T09:52:18.004000Z
+35f0366ee8929244738fb937259b44cd
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Client
+dir
+
+ConferenceCall
+dir
+
+ConferenceCall.php
+file
+
+
+
+
+2012-10-24T09:52:18.548000Z
+9c7e292048e2dd55537dfc484ce3a7ab
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Credential.php
+file
+
+
+
+
+2012-10-24T09:52:19.631000Z
+2f3be6f1a186a36f9d11a7ea3a4b5c87
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Exception.php
+file
+
+
+
+
+2012-10-24T09:52:18.051000Z
+b8792e152b733ba5da9f1e5503c9185f
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+IpLocation
+dir
+
+IpLocation.php
+file
+
+
+
+
+2012-10-24T09:52:18.061000Z
+d9cac480d51c5189bd16ba515a890b8d
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+LocalSearch
+dir
+
+LocalSearch.php
+file
+
+
+
+
+2012-10-24T09:52:19.813000Z
+22f1b087c41ac044511db7997cf819a5
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Request
+dir
+
+Response
+dir
+
+SecurityTokenServer
+dir
+
+SecurityTokenServer.php
+file
+
+
+
+
+2012-10-24T09:52:18.054000Z
+9304c442fc090607434a88ef730dd69b
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+SendSms.php
+file
+
+
+
+
+2012-10-24T09:52:19.735000Z
+9360f16d6b2957e187990d8a70bf6f82
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+SmsValidation.php
+file
+
+
+
+
+2012-10-24T09:52:19.739000Z
+4f2a9c58e828648131f82124f9f4114d
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+VoiceCall.php
+file
+
+
+
+
+2012-10-24T09:52:18.058000Z
+34a4291c28594a51db626f1caaa3a701
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Wsdl
+dir
+

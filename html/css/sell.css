@@ -1,0 +1,59 @@
+.help-inline {
+    display : block;
+    color: red;
+}
+
+#tertiary-content div {  
+  display     : block;  
+  overflow    : visible;
+  white-space : nowrap;
+}
+.ie #tertiary-cell{
+	min-height: 735px;
+}
+textarea#options  {
+  width   : 412px !important;
+  height  : 75px;
+  display : inline-block;
+}
+
+#footer {
+  margin-top: 10px;
+}
+
+#submit {
+
+  position: relative;
+  margin-left: 289px;
+  width: 83px !important;
+  height: 32px;
+
+}
+  
+.control-group input{
+	height: 26px;
+}
+
+li .active{
+	background-color: #0D8AA0;
+}
+
+li .active{
+	background-color: #0D8AA0;
+}
+
+.sell-span6{
+	height: 455px  !important;
+	width: 49% !important;
+	float: left;
+}
+
+
+#submit-sell{
+	background-color:#333333;
+	color:white;
+	width: 90px !important;
+	height: 32px;
+	float: right;
+	margin-right: 30px;
+}

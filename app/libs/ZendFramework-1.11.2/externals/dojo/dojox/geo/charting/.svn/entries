@@ -1,0 +1,86 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/geo/charting
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+Map.js
+file
+
+
+
+
+2012-10-24T09:53:16.039000Z
+be48729263962867b14fe1218b407351
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+_Feature.js
+file
+
+
+
+
+2012-10-24T09:53:16.032000Z
+bb40c9a7052096853e4d658929fa7136
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+_Marker.js
+file
+
+
+
+
+2012-10-24T09:53:16.232000Z
+7d9aae945abb24f3a77e42d0e23f260b
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+_base.js
+file
+
+
+
+
+2012-10-24T09:53:16.027000Z
+bd07f6c62099d00f7848c15146e8b01f
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+resources
+dir
+
+widget
+dir
+

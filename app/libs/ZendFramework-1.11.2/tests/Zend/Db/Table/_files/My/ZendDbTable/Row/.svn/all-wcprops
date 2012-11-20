@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Table/_files/My/ZendDbTable/Row
+END
+TestMyRow.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Table/_files/My/ZendDbTable/Row/TestMyRow.php
+END
+TestTableRow.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Table/_files/My/ZendDbTable/Row/TestTableRow.php
+END
+TestStandaloneRow.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Table/_files/My/ZendDbTable/Row/TestStandaloneRow.php
+END
+TestMockRow.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Db/Table/_files/My/ZendDbTable/Row/TestMockRow.php
+END

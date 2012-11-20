@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/conf
+END
+test_connector.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/conf/test_connector.properties
+END
+log.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/conf/log.properties
+END
+connector.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/conf/connector.properties
+END

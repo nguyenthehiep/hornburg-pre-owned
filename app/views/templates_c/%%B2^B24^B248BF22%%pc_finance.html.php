@@ -1,0 +1,81 @@
+<?php /* Smarty version 2.6.26, created on 2012-11-14 08:19:14
+         compiled from finance/pc_finance.html */ ?>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="description" content="Welcome to Hornburg Pre-Owned, a premier car dealership in Newport Beach Orange County that focuses on providing the highest quality of customer service. If you are looking for a vast selection of used domestic or import models at affordable prices, then you are in the right place. Our beautiful Newport Beach dealership is filled with friendly and knowledgeable employees who are eager to assist you.">
+<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<?php $_smarty_tpl_vars = $this->_tpl_vars;
+$this->_smarty_include(array('smarty_include_tpl_file' => "./include/pc_load_javascript.html", 'smarty_include_vars' => array()));
+$this->_tpl_vars = $_smarty_tpl_vars;
+unset($_smarty_tpl_vars);
+ ?>
+
+<link rel="stylesheet" href="/css/finance.css" type="text/css" media="all" />
+
+</head>
+<body>
+	<div class="container" id="wrapper">
+<?php $_smarty_tpl_vars = $this->_tpl_vars;
+$this->_smarty_include(array('smarty_include_tpl_file' => "./include/pc_header.html", 'smarty_include_vars' => array()));
+$this->_tpl_vars = $_smarty_tpl_vars;
+unset($_smarty_tpl_vars);
+ ?>
+<script type="text/javascript">
+	var flat = "finance";
+</script>
+<script type="text/javascript" src="/js/pages/pc_common.js"></script>
+			<!-- CONTENT ROW -->
+			<div class="row specials" id="content">
+
+				<div class="span12" id="tertiary-cell">
+					<!-- MAIN COLUMN CELL -->
+
+					<!-- BEGIN EDIT CONTENT -->
+					<div id="tertiary-content">
+						<!-- AD CELLS -->
+						<h1>"Financing and Warranty"</h1>
+						<img src="/images/pre-approved.jpg" />
+						<p>
+							Welcome to the Homburg Pre Owned Finance Page. Use our secure online application system to get a quick and accurate response on Íìnancing for your next Pre Owned vehicle. All types of credit, from good to bad, can qualify for an auto loan* Get answers in as little as an hour. Let us help you finance YOUR FUTURE not your past!
+						</p>
+						<p>
+							The Hornburg Group of franchised dealerships has formed relationships with most every major lending institution and Credit Union, local and nationwide. As such, we are able to secure financing rates that many other car dealerships can't offer you! Since we have a network of franchised dealerships, our buying power speaks volumes, and in turn, we are able to help you with securing the financing you otherwise could not get with a smaller dealer.
+						</p>
+						<p>
+							To receive more information about the financing options that We offer, please submit an online credit application to us on our encrypted online system. Our finance or sales manager will be in contact shortly to discuss the financing options available to meet your individual needs. <a href="/finance/apply" target="_blank" class="financing-btn">Apply Now!</a>
+						</p>
+						<p class="disclaimer">
+							<em>*All financing subject to credit approval. Terms and options vary by lender.*</em>
+						</p>
+						<br />
+						<h3>WARRANTY</h3>
+						<p>
+							Buying a car is the second biggest investment you'll make in your lifetime, behind your house. It's important to get extended warranty coverage in ease of unforeseen repair costs. Hornburg Pre Owned offers a variety of extended warranty options with miles and terms for you to choose from.
+						</p>
+						<p>
+							To ask more about the specific warranty options that are available to you, <a href="/contact">contact us</a> today. Our experienced staff will walk you through your options and help you choose the warranty coverage that's right for you.
+						</p>
+					</div>
+					<!-- END OF AD CELLS -->
+
+				</div><!-- END OF MAIN CELL -->
+<?php $_smarty_tpl_vars = $this->_tpl_vars;
+$this->_smarty_include(array('smarty_include_tpl_file' => "./include/pc_dealer_info.html", 'smarty_include_vars' => array()));
+$this->_tpl_vars = $_smarty_tpl_vars;
+unset($_smarty_tpl_vars);
+ ?>
+			<!-- END OF CONTENT ROW -->
+
+		</div></div>
+		<!-- END OF WRAPPER DIV -->
+		<?php $_smarty_tpl_vars = $this->_tpl_vars;
+$this->_smarty_include(array('smarty_include_tpl_file' => "./include/pc_footer.html", 'smarty_include_vars' => array()));
+$this->_tpl_vars = $_smarty_tpl_vars;
+unset($_smarty_tpl_vars);
+ ?>
+	</body>
+</html>

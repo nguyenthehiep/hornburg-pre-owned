@@ -1,0 +1,458 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+AnalogGauge.js
+file
+
+
+
+
+2012-10-24T09:53:18.381000Z
+c457ab5afa0defd1c5b54b1d28ff151b
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+AutoRotator.js
+file
+
+
+
+
+2012-10-24T09:53:22.097000Z
+abe42eef68cdc570c551b37bb3224b47
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+BarGauge.js
+file
+
+
+
+
+2012-10-24T09:53:18.427000Z
+7b60b764763575f6fab8465bf86188a0
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Calendar
+dir
+
+Calendar.js
+file
+
+
+
+
+2012-10-24T09:53:21.608000Z
+d131b5edb92929da7b182b11a6448d22
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+CalendarFx.js
+file
+
+
+
+
+2012-10-24T09:53:21.603000Z
+5c1a3ad956fede720b735ff3b3e0ffbb
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+CalendarViews.js
+file
+
+
+
+
+2012-10-24T09:53:22.240000Z
+2b64514effa2a69ddd6c6de1d575b34e
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+ColorPicker
+dir
+
+ColorPicker.js
+file
+
+
+
+
+2012-10-24T09:53:18.386000Z
+1ae01efda36858e05674d9a4a47ae68c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+DataPresentation.js
+file
+
+
+
+
+2012-10-24T09:53:21.583000Z
+08b5005e137f5d879b2dd1f9fb0e381f
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Dialog
+dir
+
+Dialog.js
+file
+
+
+
+
+2012-10-24T09:53:21.035000Z
+b7354e2cfaab797d788daba1c412ed9d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+DocTester
+dir
+
+DocTester.js
+file
+
+
+
+
+2012-10-24T09:53:20.636000Z
+356d2db4d1f112191366a275fd9a8ad4
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+DynamicTooltip.js
+file
+
+
+
+
+2012-10-24T09:53:22.259000Z
+8cd3b144a5cd3d303394dd9e85048db0
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+FeedPortlet.js
+file
+
+
+
+
+2012-10-24T09:53:18.433000Z
+6cefbe920df8d1198cb21724dc2f4750
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+FilePicker
+dir
+
+FilePicker.js
+file
+
+
+
+
+2012-10-24T09:53:21.620000Z
+764b649cf5c2a4b768170df74866a34b
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+FisheyeList
+dir
+
+FisheyeList.js
+file
+
+
+
+
+2012-10-24T09:53:22.245000Z
+433db65654e8bc84dbdb0e9a4a3d315a
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+FisheyeLite.js
+file
+
+
+
+
+2012-10-24T09:53:18.375000Z
+a4668f9e65213e7dc95f208b10756200
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Iterator.js
+file
+
+
+
+
+2012-10-24T09:53:20.557000Z
+3ab072aa7a8d107f1a58c7df324515d5
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Loader
+dir
+
+Loader.js
+file
+
+
+
+
+2012-10-24T09:53:18.284000Z
+16c4bcf86836f6e8e6abfc38422730f3
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Pager
+dir
+
+Pager.js
+file
+
+
+
+
+2012-10-24T09:53:21.029000Z
+2ef7c6172b6f89e8c0b61dba48628cd4
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+PlaceholderMenuItem.js
+file
+
+
+
+
+2012-10-24T09:53:20.490000Z
+105094de1296efcaa176cad822429a22
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Portlet
+dir
+
+Portlet.js
+file
+
+
+
+
+2012-10-24T09:53:22.250000Z
+c67296a0f09e1c7aa0e2ce0cf9ff21e0
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+README
+file
+
+
+
+
+2012-10-24T09:53:21.935000Z
+ea2b4a59d0884e825f7a2545001bd178
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Roller.js
+file
+
+
+
+
+2012-10-24T09:53:21.040000Z
+000f75750de9b857631ca97c0b97cd14
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+RollingList
+dir
+
+RollingList.js
+file
+
+
+
+
+2012-10-24T09:53:21.312000Z
+08eef0ad9af9bcdca1070e3df8bb3e68
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Rotator.js
+file
+
+
+
+
+2012-10-24T09:53:22.255000Z
+15105a6a6f8e5d87c098454f4806939d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+SortList
+dir
+
+SortList.js
+file
+
+
+
+
+2012-10-24T09:53:20.350000Z
+9dd931c13c55d4672383addb9bd4e82c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Standby
+dir
+
+Standby.js
+file
+
+
+
+
+2012-10-24T09:53:18.278000Z
+0306391eb8036a01417bc34e9f0e690c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Toaster
+dir
+
+Toaster.js
+file
+
+
+
+
+2012-10-24T09:53:18.551000Z
+9ba7e13912de53b320a48575e490198c
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+UpgradeBar
+dir
+
+UpgradeBar.js
+file
+
+
+
+
+2012-10-24T09:53:21.614000Z
+a7320b1b1319165144386668b71cea47
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Wizard
+dir
+
+Wizard.js
+file
+
+
+
+
+2012-10-24T09:53:22.263000Z
+9f8fa1cc3eb859792c81516695ba4bcc
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+gauge
+dir
+
+nls
+dir
+
+rotator
+dir
+

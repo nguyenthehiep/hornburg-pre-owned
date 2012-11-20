@@ -1,0 +1,52 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/XmlRpc/Request
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+Http.php
+file
+
+
+
+
+2012-10-24T09:52:49.780000Z
+d81bcb6d1827525ebd0cdb9e20720fa9
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Stdin.php
+file
+
+
+
+
+2012-10-24T09:52:49.784000Z
+a6c4d975c2b40a870863083036f996fa
+2012-10-18T07:22:53.522953Z
+3
+eric
+

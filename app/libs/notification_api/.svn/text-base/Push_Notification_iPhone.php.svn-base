@@ -1,0 +1,107 @@
+<?php
+
+require_once dirname(__FILE__) . '/Push_Notification_Abstract.php';
+
+/**
+ * Push_Notification_iPhone
+ * iPhone用プッシュノーティフィケーションクラス
+ */
+class Push_Notification_iPhone extends Push_Notification_Abstract{
+	// SSL設定
+	private $context_options;
+
+	/*
+	 * APNS URL
+	 * 開発用URL
+	 * ssl://gateway.sandbox.push.apple.com:2195;
+	 * リリース用URL
+	 * ssl://gateway.push.apple.com:2195;
+	 */
+	private $url;
+	
+	// Override
+	public function init(){
+		$config =& $this->getConfig();
+		
+		if(is_null($config->iPhone->apns_url)){
+			throw new Push_Notification_Exception("apns_url is NULL\n");
+		}
+		$this->url = $config->iPhone->apns_url;
+		
+		if(is_null($config->iPhone->cert_path)){
+			throw new Push_Notification_Exception("cert_path is NULL\n");
+		}
+		$context_options = array();
+		$context_options["ssl"]["local_cert"] = $config->iPhone->cert_path;
+		$this->context_options = $context_options;
+	}
+	/**
+	 * getBodyJson
+	 * Apple仕様の通知内容をJson形式で取得する
+	 * @return Json文字列
+	 * @throws Push_Notification_Exception
+	 */
+	private function getBodyJson($messagesize = 256){
+		if(is_null($this->getMessage())){
+			throw new Push_Notification_Exception("Message is NULL\n");
+		}
+		$body = array("aps"=>array());
+		$body["aps"] = array("alert" => self::str_truncate($this->getMessage()));
+		if($this->getBadge()>0){
+			$body["aps"]["badge"] = $this->getBadge();
+		}
+		if(!is_null($this->getSound())){
+			$body["aps"]["sound"] = "default";//$this->getSound();
+		}
+		return $this->unicode_encode(json_encode($body));
+	}
+	
+	// Override
+	public function send(){
+		$body = $this->getBodyJson();
+		$ctx = stream_context_create($this->context_options);
+		$payload = chr(0) . pack("n",32) . pack('H*', str_replace(' ', '', $this->getDeviceToken())) . pack("n",strlen($body)) . $body;
+		
+		// socket接続の開始
+		$fp = stream_socket_client($this->url, $err, $errstr, 60, STREAM_CLIENT_CONNECT, $ctx);
+		if (!$fp) {
+			// 接続エラー
+			throw new Push_Notification_Exception("Failed to connect $err $errstr\n");
+		}
+		// リクエストの送信
+		fwrite($fp, $payload);
+		// すぐに閉じることでレスポンスを待たずに投げっぱなしにする
+		// 接続の終了
+		fclose($fp);
+	}
+
+
+	// 文字を丸める
+	private static function str_truncate($str){
+		return mb_strimwidth($str,0,150,"...","UTF8");
+	}
+
+	// UTF-8文字列をUnicodeエスケープする。ただし英数字と記号はエスケープしない。
+	private function unicode_decode($str) {
+		return preg_replace_callback("/((?:[^\x09\x0A\x0D\x20-\x7E]{3})+)/", array($this,"decode_callback"), $str);
+	}
+	
+	private function decode_callback($matches) {
+		$char = mb_convert_encoding($matches[1], "UTF-16", "UTF-8");
+		$escaped = "";
+		for ($i = 0, $l = strlen($char); $i < $l; $i += 2) {
+			$escaped .=  "\u" . sprintf("%02x%02x", ord($char[$i]), ord($char[$i+1]));
+		}
+		return $escaped;
+	}
+	
+	// Unicodeエスケープされた文字列をUTF-8文字列に戻す
+	private function unicode_encode($str) {
+		return preg_replace_callback("/\\\\u([0-9a-zA-Z]{4})/", array($this,"encode_callback"), $str);
+	}
+	
+	private function encode_callback($matches) {
+		$char = mb_convert_encoding(pack("H*", $matches[1]), "UTF-8", "UTF-16");
+		return $char;
+	}
+}

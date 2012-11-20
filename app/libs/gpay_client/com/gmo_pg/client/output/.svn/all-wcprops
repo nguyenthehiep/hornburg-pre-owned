@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output
+END
+TdVerifyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/TdVerifyOutput.php
+END
+EntryTranEdyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryTranEdyOutput.php
+END
+CancelTranPaypalOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/CancelTranPaypalOutput.php
+END
+AlterTranOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/AlterTranOutput.php
+END
+EntryTranCvsOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryTranCvsOutput.php
+END
+ExecTranWebmoneyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ExecTranWebmoneyOutput.php
+END
+EntryExecTranSuicaOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryExecTranSuicaOutput.php
+END
+EntryExecTranOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryExecTranOutput.php
+END
+EntryExecTranEdyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryExecTranEdyOutput.php
+END
+EntryExecTranPaypalOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryExecTranPaypalOutput.php
+END
+EntryTranOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryTranOutput.php
+END
+EntryExecTranCvsOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryExecTranCvsOutput.php
+END
+ChangeTranOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ChangeTranOutput.php
+END
+DeleteMemberOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/DeleteMemberOutput.php
+END
+SearchTradeOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/SearchTradeOutput.php
+END
+outputPackageInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/outputPackageInfo.php
+END
+EntryExecTranWebmoneyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryExecTranWebmoneyOutput.php
+END
+TradedCardOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/TradedCardOutput.php
+END
+EntryTranWebmoneyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryTranWebmoneyOutput.php
+END
+ExecTranOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ExecTranOutput.php
+END
+DeleteCardOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/DeleteCardOutput.php
+END
+SearchTradeMultiOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/SearchTradeMultiOutput.php
+END
+EntryExecTranPayEasyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryExecTranPayEasyOutput.php
+END
+SaveMemberOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/SaveMemberOutput.php
+END
+EntryTranSuicaOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryTranSuicaOutput.php
+END
+ExecTranEdyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ExecTranEdyOutput.php
+END
+EntryTranPaypalOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryTranPaypalOutput.php
+END
+ExecTranPayEasyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ExecTranPayEasyOutput.php
+END
+ErrHolder.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ErrHolder.php
+END
+BaseOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/BaseOutput.php
+END
+ExecTranSuicaOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ExecTranSuicaOutput.php
+END
+SaveCardOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/SaveCardOutput.php
+END
+SearchMemberOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/SearchMemberOutput.php
+END
+ExecTranPaypalOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ExecTranPaypalOutput.php
+END
+UpdateMemberOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/UpdateMemberOutput.php
+END
+EntryTranPayEasyOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/EntryTranPayEasyOutput.php
+END
+SearchCardOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/SearchCardOutput.php
+END
+ExecTranCvsOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/gpay_client/com/gmo_pg/client/output/ExecTranCvsOutput.php
+END

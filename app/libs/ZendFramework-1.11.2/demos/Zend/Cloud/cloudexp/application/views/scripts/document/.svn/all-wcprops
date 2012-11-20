@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Cloud/cloudexp/application/views/scripts/document
+END
+add-document.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Cloud/cloudexp/application/views/scripts/document/add-document.phtml
+END
+create.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Cloud/cloudexp/application/views/scripts/document/create.phtml
+END
+delete-document.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Cloud/cloudexp/application/views/scripts/document/delete-document.phtml
+END
+index.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Cloud/cloudexp/application/views/scripts/document/index.phtml
+END
+show.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Cloud/cloudexp/application/views/scripts/document/show.phtml
+END

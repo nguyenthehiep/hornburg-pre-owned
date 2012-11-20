@@ -1,0 +1,100 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Soap
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+AllTests.php
+file
+
+
+
+
+2012-10-24T09:51:24.636000Z
+3ae8e2d2d96fe0e38ebab47cec2c18dc
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+AutoDiscover
+dir
+
+AutoDiscoverTest.php
+file
+
+
+
+
+2012-10-24T09:51:24.876000Z
+6cb13b1c3bb4921fcebb7859784638e4
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+ClientTest.php
+file
+
+
+
+
+2012-10-24T09:51:24.775000Z
+84aee74ff456afb244cea1f8afdac228
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+ServerTest.php
+file
+
+
+
+
+2012-10-24T09:51:24.872000Z
+e54677952917e6f83347f095db0d9b52
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Wsdl
+dir
+
+WsdlTest.php
+file
+
+
+
+
+2012-10-24T09:51:24.632000Z
+6646e856b9e3baa2badc1df83394ad34
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+_files
+dir
+
+schemas
+dir
+

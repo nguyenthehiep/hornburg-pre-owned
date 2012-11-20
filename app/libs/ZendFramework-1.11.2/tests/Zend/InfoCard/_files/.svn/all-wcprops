@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files
+END
+encryptedkey_missing_encryptionmethod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/encryptedkey_missing_encryptionmethod.xml
+END
+signedToken.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/signedToken.xml
+END
+encryptedkey_missing_enc_algo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/encryptedkey_missing_enc_algo.xml
+END
+encryptedtoken.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/encryptedtoken.xml
+END
+encryptedkey_bad_block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/encryptedkey_bad_block.xml
+END
+signedToken_bad_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/signedToken_bad_type.xml
+END
+ssl_private.cert
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/ssl_private.cert
+END
+encryptedtoken_bad_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/encryptedtoken_bad_type.xml
+END
+security_token_bad_keyref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/security_token_bad_keyref.xml
+END
+ssl_pub.cert
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/ssl_pub.cert
+END
+encryptedkey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/InfoCard/_files/encryptedkey.xml
+END

@@ -1,0 +1,79 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Entry/_files/Rss/datemodified/plain
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+atom10
+dir
+
+dc10
+dir
+
+dc11
+dir
+
+none
+dir
+
+rss20-zf-7908.xml
+file
+
+
+
+
+2012-10-24T09:51:33.469000Z
+684e67c03c71935513e2ee1fc8797d2d
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+rss20.xml
+file
+
+
+
+
+2012-10-24T09:51:33.461000Z
+0165ba17c1a0464c23d399ba168fbba1
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+rss20_en_US.xml
+file
+
+
+
+
+2012-10-24T09:51:33.089000Z
+c697c8d3c62899fe8cef9806a1009482
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

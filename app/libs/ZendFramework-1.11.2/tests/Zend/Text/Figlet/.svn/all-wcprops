@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet
+END
+CharWrapLeftToRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/CharWrapLeftToRight.figlet
+END
+CorrectEncoding.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/CorrectEncoding.figlet
+END
+WordWrapLeftToRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/WordWrapLeftToRight.figlet
+END
+StandardAlignLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/StandardAlignLeft.figlet
+END
+OutputWidth50AlignRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/OutputWidth50AlignRight.figlet
+END
+SmushForced.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/SmushForced.figlet
+END
+SmushDefault.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/SmushDefault.figlet
+END
+StandardRightToLeftAlignCenter.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/StandardRightToLeftAlignCenter.figlet
+END
+GenerateDummies.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/GenerateDummies.sh
+END
+ParagraphOff.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/ParagraphOff.figlet
+END
+NoSmushRightToLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/NoSmushRightToLeft.figlet
+END
+WordWrapRightToLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/WordWrapRightToLeft.figlet
+END
+GzippedFont.gz
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/GzippedFont.gz
+END
+NoSmush.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/NoSmush.figlet
+END
+ParagraphOn.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/ParagraphOn.figlet
+END
+StandardAlignCenter.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/StandardAlignCenter.figlet
+END
+StandardAlignRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/StandardAlignRight.figlet
+END
+StandardRightToLeftAlignLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/StandardRightToLeftAlignLeft.figlet
+END
+StandardRightToLeftAlignRight.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/StandardRightToLeftAlignRight.figlet
+END
+InvalidFont.flf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/InvalidFont.flf
+END
+CharWrapRightToLeft.figlet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Text/Figlet/CharWrapRightToLeft.figlet
+END

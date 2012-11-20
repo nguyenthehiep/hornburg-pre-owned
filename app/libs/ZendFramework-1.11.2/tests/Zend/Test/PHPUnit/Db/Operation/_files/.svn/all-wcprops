@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation/_files
+END
+insertFixture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation/_files/insertFixture.xml
+END
+truncateFixture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Test/PHPUnit/Db/Operation/_files/truncateFixture.xml
+END

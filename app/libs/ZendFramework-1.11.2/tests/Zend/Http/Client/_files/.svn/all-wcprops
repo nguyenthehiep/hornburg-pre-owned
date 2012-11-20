@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files
+END
+testSimpleRequests.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testSimpleRequests.php
+END
+ZF10645-PutContentType.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/ZF10645-PutContentType.php
+END
+ZF4238-zerolineresponse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/ZF4238-zerolineresponse.txt
+END
+testGetData.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testGetData.php
+END
+testResetParameters.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testResetParameters.php
+END
+testStreamRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testStreamRequest.php
+END
+ZF7038-multipartarrayrequest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/ZF7038-multipartarrayrequest.txt
+END
+testUploads.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testUploads.php
+END
+testRelativeRedirections.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testRelativeRedirections.php
+END
+testMultibyteChunkedResponseZF6218.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testMultibyteChunkedResponseZF6218.php
+END
+testHeaders.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testHeaders.php
+END
+staticFile.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/staticFile.jpg
+END
+ZF2098-multibytepostdata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/ZF2098-multibytepostdata.txt
+END
+testPostData.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testPostData.php
+END
+ZF9404-doubleContentLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/ZF9404-doubleContentLength.php
+END
+testRawPostData.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testRawPostData.php
+END
+testCookies.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testCookies.php
+END
+testExceptionOnReadTimeout.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testExceptionOnReadTimeout.php
+END
+testHttpAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testHttpAuth.php
+END
+testRedirections.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Http/Client/_files/testRedirections.php
+END

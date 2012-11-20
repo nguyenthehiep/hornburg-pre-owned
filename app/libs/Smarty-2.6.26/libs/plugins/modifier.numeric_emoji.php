@@ -1,0 +1,15 @@
+<?php
+/**
+ * 数値を数字絵文字に変換する。
+ *
+ * 入力が0〜9ではない場合、または、携帯端末からのアクセスではない場合は、
+ * 入力を [ と ] で囲んだ文字列を返す。
+ *
+ * @param string $value 入力
+ * @return string 出力
+ */
+function smarty_modifier_numeric_emoji($value) {
+	$objEmoji = new class_MobileEmoji;
+	return $objEmoji->indexToCode($value);
+}
+?>

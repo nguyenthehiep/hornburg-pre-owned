@@ -1,0 +1,79 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/demos/Zend/Service/LiveDocx
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+Helper.php
+file
+
+
+
+
+2012-10-24T09:54:00.590000Z
+14575a91e8bf22edb9c122a3baad891e
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+MailMerge
+dir
+
+check-environment.php
+file
+
+
+
+
+2012-10-24T09:54:00.594000Z
+1e37070283d9536654c6a12d78b7915b
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+common.php
+file
+
+
+
+
+2012-10-24T09:54:00.596000Z
+6b11a347dd52894cec004fe34890eac3
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+configuration.php.dist
+file
+
+
+
+
+2012-10-24T09:53:59.676000Z
+491c1d5d66b4014ab84c2755fa3a2b52
+2012-10-18T07:22:53.522953Z
+3
+eric
+

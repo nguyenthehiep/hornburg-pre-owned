@@ -1,0 +1,52 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/resources/languages
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+AllTests.php
+file
+
+
+
+
+2012-10-24T09:52:13.515000Z
+637f1e2261c7fadeed84a3138ea4697f
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Zend_ValidateTest.php
+file
+
+
+
+
+2012-10-24T09:52:13.511000Z
+d424e69ccd83ed228e7dad28780f1c4a
+2012-10-18T07:22:53.522953Z
+3
+eric
+

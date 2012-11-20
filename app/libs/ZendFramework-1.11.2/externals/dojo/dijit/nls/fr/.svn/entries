@@ -1,0 +1,54 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dijit/nls/fr
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+common.js
+file
+
+
+
+
+2012-10-24T09:53:06.267000Z
+0988818ce30fdcf5db01521c2ae3e0ec
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+loading.js
+file
+
+
+
+
+2012-10-24T09:53:06.273000Z
+726dca4ed5d79ef67e7ca83f856f1186
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

@@ -1,0 +1,233 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<?php include('includes/functions.php'); ?>
+<?php include('includes/global.php'); ?>
+<title><?php echo $siteName; $home = 'active';?></title>
+<style type="text/css">
+    #tertiary-contact-wrapper,
+    #tertiary-contact form { margin-top: 0 !important; margin-bottom: 5px !important; color: black; }
+    .pager a {border: none !important; margin: 0 !important; padding: 0 !important; background: none !important; }
+    #tertiary-contact input[type="submit"] {background: #11728f; color: white; }
+    #tertiary-contact input[type="submit"]:hover {background: #FF8647; }
+    #inventory-slider { padding-top: 10px; text-align: center; width: 952px; height: auto; white-space: nowrap; overflow: hidden; position: relative;}
+    #inventory-slider .inline-cell { display: inline-block; position: relative; overflow: hidden; margin-left: 6px; margin-right: 7px; margin-top: 7px; margin-bottom: 8px; width: 155px; height: 120px; background: #3f3f3f; }
+    #inventory-slider-wrapper { position: relative; overflow: hidden; height: 145px !important;}
+    #prev, #next {width: 50px; height: 125px; background: black; position: absolute; cursor: pointer; z-index: 1001;}
+    legend {margin-bottom: 0;}
+    #prev {top: 15px; left: 5px; background: url('images/btn-left.png'); background-size: 100% 100%;}
+    #prev:hover {background: url('images/btn-left.png'); background-size: 100% 100%;}
+    #next { top: 15px; right: 5px; background: url('images/btn-right.png'); background-size: 100% 100%;}
+    #next:hover { background: url('images/btn-right.png'); background-size: 100% 100%;}
+    table.imageMid, table.imageMid td { overflow: hidden; width: 155px !important; height: 120px !important; background: transparent !important;}
+    #content {margin-top: 0 !important;}
+    #content .cell { overflow: hidden; display: block; min-height: 90px; padding-bottom: 4px; }
+    .display-all-cars {display: none !important;}
+    .order-wrap {display: none;}
+    #inventory-slider-wrapper .bx-wrapper {height: 150px;}
+    #inventory-slider-wrapper .bx-window {overflow: visible !important;}
+    #price-ranges .home-price-btn {background: url('images/home-btns.png') top left no-repeat;}
+    #price-ranges #btn-10 {background-position:0px -37px;}
+    #price-ranges #btn-15 {background-position:0px -74px;}
+    #price-ranges #btn-20 {background-position:0px -111px;}
+    #price-ranges #btn-all {background-position:0px -148px;}
+    #price-ranges #btn-5:hover {background-position:-252px 0px;}
+    #price-ranges #btn-10:hover {background-position:-252px -37px;}
+    #price-ranges #btn-15:hover {background-position:-252px -74px;}
+    #price-ranges #btn-20:hover {background-position:-252px -111px;}
+    #price-ranges #btn-all:hover {background-position:-252px -148px;}
+    #inventory-slider {background: none; height: 121px;}
+    #slider {margin-bottom: 6px;}
+    #inventory-slider > div {z-index: 0; background: url('images/home-car-list-repeat.jpg') top left repeat-x; height: 135px; background-size: 100% 100%; width: 952px; border-radius: 10px !important; -moz-border-radius: 10px !important; overflow: hidden;}
+    #keywords {float: left !important; height: auto; height: auto !important; min-height: 28px !important; width: 100%;}
+    #cell1 {float: left; display: inline-block; min-height: 275px !important;}
+    #cell1 h4 {font-size: 1.3em; letter-spacing: 2px; margin-bottom: 8px;}
+    ul.location-list { display: inline-block; width: 25%;}
+    #sidebar { margin-top: 10px; }
+   </style>
+</head>
+
+<body>
+<div class="container" id="wrapper"> <!-- WRAPPER DIV -->
+<!-- HEADER ROW -->
+    <div class="row" id="header-row">
+        <div class="span8">
+                <div class="hero-unit" id="banner">
+                   <a href="home"><div id="h1Wrap"><h1><?=$siteName?></h1></div></a>
+                </div>
+        </div>
+        <div class="span8" id="address">
+        	<address><span id="phone"><?=$dealer_phone?></span><br /> <?=$address?></address>
+        </div>
+    </div>
+
+<!-- HEADER END -->
+
+
+<!-- NAVBAR ROW -->
+
+    <div class="row">
+    	<div class="span16" id="navBG">
+                <?php include('includes/navbar.php'); ?>
+         </div>
+    </div>
+
+<!-- NAVBAR END -->
+
+
+<!-- CONTENT ROW -->
+
+    <div class="row" id="content">
+
+      <div class="span12"> <!-- MAIN COLUMN CELL -->
+
+      	<div class="row"> <!-- HERO ROW -->
+        	<div class="span12">
+            	<div id="slider">
+                    <div id="slider1" style="height: 310px; overflow:hidden;">
+                    	<?php for ($i=0;$i<count($sliderImgs);$i++) {?>
+                        <div style="position: relative; background: url(<?=$sliderImgs[$i]?>) top left no-repeat; height: 310px !important;"></div>
+                        <?php } ?>
+
+                    </div>
+                    <div id="slider-cover">
+                        <ul id="price-ranges">
+                            <a href="<?=$base_url?>/inventory/under-10000"><li class="home-price-btn" id="btn-5"><h4>Less than $10.000</h4></li></a>
+                            <a href="<?=$base_url?>/inventory/under-15000"><li class="home-price-btn" id="btn-10"><h4>Less than $15.000</h4></li></a>
+                            <a href="<?=$base_url?>/inventory/under-20000"><li class="home-price-btn" id="btn-15"><h4>Less than $20.000</h4></li></a>
+                            <a href="<?=$base_url?>/inventory/under-25000"><li class="home-price-btn" id="btn-20"><h4>Less than $25.000</h4></li></a>
+                            <a href="<?=$base_url?>/inventory/under-all"><li class="home-price-btn" id="btn-all"><h4>All Vehicles</h4></li></a>
+                        </ul>
+                        <a href="<?=$base_url?>/finance"><div id="approval"><h3>Get Instant Approval!</h3></div></a>
+                    </div>
+                 </div>
+            </div>
+        </div> <!-- END OF HERO ROW -->
+
+        <div class="row">
+            <div class="span16" id="inventory-slider-wrapper">
+                <div id="inventory-slider" class="cell">
+                    <?php
+                        include('includes/inventoryList.php');
+                        $slider = printInventorySlider($allCars, $siteName, 5, $base_url, 5);
+                        echo $slider;
+                    ?>
+                </div>
+                <div class="index-slide-btn no-highlight" id="prev" title="Previous Slide"></div>
+                <div class="index-slide-btn no-highlight" id="next" title="Next Slide"></div>
+            </div>
+        </div>
+        <div class="row nowrap" id="cell-row"> <!-- INFO CELL ROW -->
+        	<div class="span12 cell no-left" id="cell1">
+            	<div id="c1wrap" class="cellwrap">
+                    <h3>Hornburg Pre-Owned Center</h3>
+                    <p>Welcome to the <em>Hornburg Auto Group</em>. We are a premier car dealer ship in Newport Beach, Orange County, CA that focuses on providing the highest quality customer service. We also have locations in Mission Viejo, Los Angeles and Santa Monica. As well as being a specialist used car dealer we are also a franchised Land Rover, Jaguar and Aston Martin dealer and have been trading in the LA and OC markets for over 50 years.</p>
+                    <p>Our Newport Beach Used Car center is operated by an experienced team including Pam Doyle who has been with our group for over 30 years which we believe gives us credibility and stability in a very diverse and competitive market place. We are located right next to John Wayne airport and are one of the largest Land Rover Jaguar service centers in southern California. Our customers have been asking us for a long time if they can buy a quality pre-owned used vehicle for their family and friends so we decided to extend our business at our service location and develop our pre-owned operation utilizing the groups resources.</p>
+                    <p>Our pricing strategy means that the cars we do keep are the lowest priced cars in the market so you can get a great deal on a pre-owned BMW, Mercedes, Lexus, Honda, Toyota, with prices ranging from $5,000, YES! $5000 upwards, and we also keep one of the largest pre-owned selections of Land Rover and Jaguars in the So-cal market.</p>
+                    <p>Visit and see a different less pressured way of doing business, we think you will be very impressed and remember if we donâ€™t have exactly what youâ€™re looking for we do have access to 300 plus pre-owned cars in our group inventory </p>
+                    <p>Most importantly we offer easy credit approvals for all customers and because of our relationships with the banks we can get you credit to buy your next pre-owned car.</p>
+                    <img alt="Hornburg Pre-Owned Building" src="<?=$base_url?>/images/hornburg-exterior.png" />
+                    <h3>We Serve These Southern California Locations</h3>
+                    <ul class="location-list">
+                        <li>Aliso Viejo</li>
+                        <li>Anaheim</li>
+                        <li>Brea</li>
+                        <li>Buena Park</li>
+                        <li>Costa Mesa</li>
+                        <li>Cypress</li>
+                        <li>Dana Point</li>
+                        <li>Fountain Valley</li>
+                        <li>Fullerton</li>
+                        <li>Garden Grove</li>
+                        <li>Huntington Beach</li>
+                    </ul>
+                    <ul class="location-list">
+                        <li>Irvine</li>
+                        <li>Laguna Beach</li>
+                        <li>Laguna Hills</li>
+                        <li>Laguna Niguel</li>
+                        <li>La Habra</li>
+                        <li>Lake Forest</li>
+                        <li>La Palma</li>
+                        <li>Los Alamitos</li>
+                        <li>Mission Viejo</li>
+                        <li>Newport Beach</li>
+                        <li>Orange</li>
+                    </ul>
+                    <ul class="location-list">
+                        <li>Placentia</li>
+                        <li>Rancho Santa Margarita</li>
+                        <li>San Clemente
+                        <li>San Juan Capistrano</li>
+                        <li>Santa Ana</li>
+                        <li>Seal Beach</li>
+                        <li>Stanton</li>
+                        <li>Tustin</li>
+                        <li>Villa Park</li>
+                        <li>Westminster</li>
+                        <li>Yorba Linda</li>
+                    </ul>
+                   <p>We are located near the corner of Dove Street and Campus Drive off the California 73 freeway.</p>
+                </div>
+            </div>
+        	<div class="span4 cell" id="cell2">
+            	<div id="c2wrap" class="cellwrap">
+                	<h3>Refined Search</h3>
+                    <?php include('includes/filter.php'); ?>
+
+                    <a class="btn grad-btn success small more" id="filter-btn" href="<?=$base_url?>/inventory">Find ></a>
+                </div>
+            </div>
+             <div class="span4" id="sidebar"> <!-- SIDEBAR CELL -->
+                <div id="map">
+                    <iframe style="width: 100%; height: 250px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?q=<?=$mapaddress?>&amp;ie=UTF8&amp;hq=&amp;hnear=<?=$mapaddress?>&amp;t=m&amp;z=14$amp;&amp;iwloc=nearll=33.879879,-117.598272&amp;output=embed"></iframe><br />
+                    <small><a target="_blank" href="http://maps.google.com/?q=<?=$mapaddress?>&amp;ie=UTF8&amp;hq=&amp;hnear=<?=$mapaddress?>&amp;t=m&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+                </div>
+                <div id="dealerInfo">
+                <h4>Business Hours</h4>
+                    <ul class="unstyled">
+            <li><div style="width: 65px; display: inline-block;">Weekdays:</div> 9:00am to 6:00pm</li>
+            <li><div style="width: 65px; display: inline-block;">Saturday:</div> 9:00am to 6:00pm</li>
+            <li><div style="width: 65px; display: inline-block;">Sunday:</div> Closed</li>
+                  </ul>
+                </div>
+            </div> <!-- END OF SIDEBAR CELL -->
+        </div> <!-- END OF INFO CELL ROW -->
+      </div><!-- END OF MAIN CELL -->
+    </div> <!-- END OF CONTENT ROW -->
+</div> <!-- END OF WRAPPER DIV -->
+<div id="footer"><?php include("includes/footer.php"); ?></div>
+<div id="brand">
+    <div id="index">
+	Powered by <a href="http://www.vehicleinventorynetwork.com" style="color: white !important;">V<span style="color: red;">I</span>N</a> | Vehicle Inventory Network, LLC.<br />
+    <span style="font-size: .85em !important; color: #aaaaaa !important;">While every effort is made to ensure the accuracy of this site's content, we are not responsible for any errors in pricing or advertisements on this site. Please check with the sales department to confirm any information seen on this page.</span>
+    </div>
+</div>
+<form id="filter-home-form" name="filter-home-form" action="<?=$base_url?>/inventory" method="post">
+<input type="hidden" name="make"/>
+<input type="hidden" name="model"/>
+<input type="hidden" name="year"/>
+<input type="hidden" name="trim"/>
+<input type="hidden" name="price"/>
+<input type="hidden" name="filter-home" id="filter-home"/>
+</form>
+<script type="text/javascript">
+$('#filter-btn').click(function(event){
+    event.preventDefault();
+    $make = document.getElementById('makeDrp').value;
+    $model = document.getElementById('modelDrp').value;
+    $trim = document.getElementById('trimDrp').value;
+    $year = document.getElementById('yearDrp').value;
+    $price = document.getElementById('priceDrp').value;
+    var filter = {make: $make, model: $model, trim: $trim, year: $year, price: $price};
+    $("#filter-home-form input").each(function(){
+        var name = this.name;
+        this.value = filter[name];
+    });
+    document.getElementById('filter-home').value = true;
+    document.forms['filter-home-form'].submit();
+});
+</script>
+</body>
+</html>

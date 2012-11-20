@@ -1,0 +1,57 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/widget/FilePicker
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+FilePicker.css
+file
+
+
+
+
+2012-10-24T09:53:21.368000Z
+70eae446de64ac5fe5fac84117d7db6f
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+_FileInfoPane.html
+file
+
+
+
+
+2012-10-24T09:53:21.358000Z
+fa2c2a7fde60978cf6a3290f33d3f6b1
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+images
+dir
+

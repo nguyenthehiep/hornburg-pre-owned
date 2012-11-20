@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Integration
+END
+LautDeRdfTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Integration/LautDeRdfTest.php
+END
+H-OnlineComAtom10Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Integration/H-OnlineComAtom10Test.php
+END
+PodcastRss2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Integration/PodcastRss2Test.php
+END
+WordpressAtom10Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Integration/WordpressAtom10Test.php
+END
+WordpressRss2DcAtomTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Feed/Reader/Integration/WordpressRss2DcAtomTest.php
+END

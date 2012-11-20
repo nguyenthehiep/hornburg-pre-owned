@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/WindowsAzure/RetryPolicy
+END
+RetryN.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/WindowsAzure/RetryPolicy/RetryN.php
+END
+NoRetry.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/WindowsAzure/RetryPolicy/NoRetry.php
+END
+RetryPolicyAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/WindowsAzure/RetryPolicy/RetryPolicyAbstract.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/WindowsAzure/RetryPolicy/Exception.php
+END

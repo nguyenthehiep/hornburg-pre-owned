@@ -1,0 +1,98 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojox/embed
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+Flash.js
+file
+
+
+
+
+2012-10-24T09:53:41.712000Z
+6100f91b6f21a491701415f44219e3e5
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+IE
+dir
+
+Object.js
+file
+
+
+
+
+2012-10-24T09:53:41.668000Z
+4c4c1970181b56fb5eb352f87be319fc
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+Quicktime.js
+file
+
+
+
+
+2012-10-24T09:53:41.691000Z
+ec38001c0c5625deab32c65651286fae
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+README
+file
+
+
+
+
+2012-10-24T09:53:41.828000Z
+ce9a1bcc1fb146308cd70b0b378396d5
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+flashVars.js
+file
+
+
+
+
+2012-10-24T09:53:41.676000Z
+3635e162ce511aa384e4b25aaf46ebc3
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+resources
+dir
+

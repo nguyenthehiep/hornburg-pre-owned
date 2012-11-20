@@ -1,0 +1,97 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/OpenId
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+AllTests.php
+file
+
+
+
+
+2012-10-24T09:51:44.312000Z
+7060f3ca972a5003cce74558028aea9f
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Consumer
+dir
+
+ConsumerTest.php
+file
+
+
+
+
+2012-10-24T09:51:44.317000Z
+e8b7db59fda40afe7ce3aca4e7c98897
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Extension
+dir
+
+ExtensionTest.php
+file
+
+
+
+
+2012-10-24T09:51:44.321000Z
+141b5b0399f549cd2b91d386c0575926
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+Provider
+dir
+
+ProviderTest.php
+file
+
+
+
+
+2012-10-24T09:51:44.308000Z
+79927386ba942673406b94b8ed3d0dfc
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+ResponseHelper.php
+file
+
+
+
+
+2012-10-24T09:51:44.325000Z
+e463bd4b9304a881056757b56247839a
+2012-10-18T07:22:53.522953Z
+3
+eric
+

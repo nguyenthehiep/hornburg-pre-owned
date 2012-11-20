@@ -1,0 +1,52 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/extras/tests/ZendX/Db/Adapter
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+FirebirdTest.php
+file
+
+
+
+
+2012-10-24T09:53:54.727000Z
+c11eb0c03176f9f9e42620b719c2a151
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+SkipTests.php
+file
+
+
+
+
+2012-10-24T09:53:54.724000Z
+7e905c344657f9dec360952b34ca5178
+2012-10-18T07:22:53.522953Z
+3
+eric
+

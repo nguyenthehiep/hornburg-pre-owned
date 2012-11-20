@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/VoiceButler
+END
+VoiceButlerAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/VoiceButler/VoiceButlerAbstract.php
+END
+TearDownCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/VoiceButler/TearDownCall.php
+END
+CallStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/VoiceButler/CallStatus.php
+END
+NewCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/VoiceButler/NewCall.php
+END
+NewCallSequenced.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/VoiceButler/NewCallSequenced.php
+END

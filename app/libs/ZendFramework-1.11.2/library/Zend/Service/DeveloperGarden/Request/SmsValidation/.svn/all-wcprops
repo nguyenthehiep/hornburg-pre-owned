@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/SmsValidation
+END
+Invalidate.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/SmsValidation/Invalidate.php
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/SmsValidation/Validate.php
+END
+GetValidatedNumbers.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/SmsValidation/GetValidatedNumbers.php
+END
+SendValidationKeyword.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/library/Zend/Service/DeveloperGarden/Request/SmsValidation/SendValidationKeyword.php
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden
+END
+OfflineClientTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/OfflineClientTest.php
+END
+OfflineCredentialTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/OfflineCredentialTest.php
+END
+SecurityTokenServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/SecurityTokenServerTest.php
+END
+AllOfflineTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/AllOfflineTests.php
+END
+ConferenceCallTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/ConferenceCallTest.php
+END
+OfflineBaseUserServiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/OfflineBaseUserServiceTest.php
+END
+SendSmsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/SendSmsTest.php
+END
+OfflineConferenceCallTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/OfflineConferenceCallTest.php
+END
+BaseUserServiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/BaseUserServiceTest.php
+END
+OfflineLocalSearchParametersTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/OfflineLocalSearchParametersTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/AllTests.php
+END
+VoiceCallTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/VoiceCallTest.php
+END
+OfflineSecurityTokenServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/OfflineSecurityTokenServerTest.php
+END
+IpLocationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/IpLocationTest.php
+END
+LocalSearchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/LocalSearchTest.php
+END
+AllOnlineTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/AllOnlineTests.php
+END
+OfflineIpLocationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/OfflineIpLocationTest.php
+END
+SmsValidationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/WebTeam/!svn/ver/3/VinSocial/trunk/app/libs/ZendFramework-1.11.2/tests/Zend/Service/DeveloperGarden/SmsValidationTest.php
+END

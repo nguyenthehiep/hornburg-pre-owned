@@ -1,0 +1,788 @@
+
+//$themeStyle = 'matte'; // This can be glossy, matte or rounded
+
+.hasPlaceholder {
+    color: #777;
+}
+
+.no-highlight {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.red {
+    color: red;
+    font-style: oblique;
+}
+
+.add-on {
+    background-color: #3f3f3f !important;
+    text-shadow: none !important;
+    font-color: #333333 !important;
+    padding-top: 4px !important;
+}
+
+html {
+	background: 
+		#11728f 
+        url('../images/bg-repeat.png') 
+        top left repeat-x;
+        font-family: Verdana, Geneva, sans-serif !important;
+}
+
+.navbar {
+	margin: 0;}
+
+div {
+    border-radius:0px;
+    -moz-border-radius: 0px;}
+
+#wrapper {min-height: 820px !important;}
+/* FORM VALIDATION STYLING */
+
+.success {
+    background: none !important; 
+    border-radius:0 !important;
+    -moz-border-radius: 0px !important;
+}
+
+.success:hover {
+    background: none !important;}
+    
+h1, 
+h2, 
+h3 {
+    color:#f3f9fb !important;}
+
+body {
+    background: url('') top left no-repeat; 
+    background-size: 100%;
+    color:#f3f9fb;}
+
+body { background: url('../images/dealer-bg-photo.jpg') top left no-repeat; background-size: 1920px; background-position: 0 175px; }
+
+#wrapper {
+}
+
+a {
+    color:#11728f !important;}
+
+.active a.a-active {
+    color:white !important;}
+
+#brand {
+	z-index:10000;
+	text-align: center; 
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+    background: #000;}
+#brand a {
+    color: white !important;
+}
+
+#index {position: relative; z-index: 1010; width: 100%; height: 100%; background: #000000; padding: 1em; }
+
+#keywords {background: #08506d; height: auto !important; float: right;}
+#keywords span{color: white !important;}
+
+/* IMAGE RESIZING CSS */
+table, 
+td, 
+tr {
+	table-layout:fixed;
+	overflow: hidden !important;
+	padding: 0 !important;
+	margin: 0 !important;}
+
+table.image, 
+table.image td {
+	overflow: hidden;
+    width: 400px !important;
+    height: 310px !important;
+    background: #3f3f3f !important;}
+
+table.imageMid, 
+table.imageMid td {
+	overflow: hidden;
+    width: 162px !important;
+    height: 120px !important;
+    background: none !important;}
+
+table.imageSml, 
+table.imageSml td {
+    width: 88px !important;
+    height: 65px !important;
+    background: #3f3f3f !important;}
+
+table.image img, 
+table.imageMid img, 
+table.imageSml img { 
+	display: block; 
+    margin: 0 auto; 
+    max-width: 100% !important; 
+    max-height: 100% !important; 
+    margin-left: auto !important; 
+    margin-right: auto !important;}​
+
+/* HEADER */
+#facebookH {
+	margin-top: 5px;
+}
+
+#facebookH img {
+	position: relative; 
+    top: 3px;
+}
+    
+#address address{
+	margin: 20px;
+    margin-top: 50px;
+    margin-right: 0;
+    margin-bottom: 5px; 
+    text-align: right;
+    color: #f3f9fb;}
+
+#address span#phone-header {
+    font-size: 4em !important; 
+    font-weight: bold;
+    display: block;}
+
+#banner {
+    margin-top:30px; 
+    height:92px; 
+    margin-bottom: 7px; 
+    background:none; 
+    color:#f3f9fb; 
+    position:relative; 
+    padding:0px;}
+
+#header-row {background: url('../images/banner-bg.png') top center no-repeat;}
+
+#banner #h1Wrap {
+	background: 
+    	url('../images/logo.png') 
+        top left 
+        no-repeat;
+    width: 525px;
+    height: 86px;}
+
+#banner h1 {
+    color:#f3f9fb;
+    display: none;}
+
+#banSlideWrap {
+	height: 70px !important; 
+    width: 500px; 
+    position: absolute; 
+    top: 0px; 
+    left: 200px;}
+    
+#bannerSlider div {
+	width: 500px; 
+    height: 70px;}
+
+
+
+/* NAVIGATION */
+#navBG {
+    position: relative;
+    z-index: 100;
+	width: 948px;
+    background:url(\'../images/btn-off.jpg\') top left repeat-x !important;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+}
+
+ul.nav li {
+    height: 36px;
+    overflow: hidden;
+}
+
+ul.nav li.active a.a-active {
+    background: url('../images/btn-on.jpg') top left repeat-x !important;
+}
+
+ul.nav a {
+	font-weight: bolder !important; 
+    font-size: 1em; 
+    padding-bottom: 0px;
+    color: 'black';
+    border-right: 2px solid white;
+}
+    
+ul.dropdown-menu {
+	margin-top: -3px;}
+
+ul.dropdown-menu {
+	background: #f3f9fb !important;}
+    
+ul.dropdown-menu a {
+	color: #3f3f3f !important;}
+    
+ul.dropdown-menu a:hover {
+	background: #c9e6f5 !important;}
+
+
+/* MAIN CONTENT */
+#content {
+    margin-top:10px;}
+
+#slider {
+	overflow:hidden !important;
+    width: 950px; 
+    height:305px;
+    position: relative;
+}
+
+#slider > div {  
+    -moz-border-radius: 10px !important;
+    border-radius: 10px !important;
+    overflow: hidden;
+}
+
+#slider1 div h1{
+	 text-align: center;
+	 width: 450px;
+    -moz-border-radius: 0px 5px 0px 0px !important;
+	 border-radius: 0px 5px 0px 0px !important;
+     opacity: .9;
+     font-weight: bold;
+     font-size: 2.1em;
+     background: #08506d; 
+     position: absolute; 
+     bottom: 0; 
+     left: 0; 
+     padding: 4px;
+     padding-left: 8px;}
+
+#slider-cover {
+    position: absolute; 
+    top: -25px;
+    right: -3px;
+    width:310px; 
+    height:335px; 
+    background: url('../images/slider-cover.png') top right no-repeat;}
+
+#slider .bx-wrapper {   
+    -moz-border-radius: 15px !important;
+    border-radius: 15px !important;
+    overflow: hidden;
+}
+
+#social {
+    height:300px;
+    background:#11728f;
+    background-color: #ffffff !important;}
+
+#featured {
+    height:155px;
+    background:#11728f;
+    margin-top:10px;}
+
+div.cellwrap {
+    width: 96%;
+    margin-top: 8px;
+    margin-left: 8px;
+    bottom: 0px;}
+
+.cell .btn,
+#tertiary-cell .btn {
+    width:200px;
+    height: 20px;
+    margin-bottom: 1px;
+    background: #f3f9fb !important;
+    padding-top: 6px !important;}
+    
+    
+.cell .btn:hover,
+#tertiary-cell .btn:hover {
+	background: #c9e6f5 !important;
+}
+
+.cell .more {
+    width:auto;
+    position:absolute;
+    bottom:8px;
+    right:8px;}
+
+.cell {
+	position: relative;
+    color: #1f1f1f !important;
+    margin-top:10px;
+    background: #dde6ed url('../images/home-car-list-repeat.jpg') top left no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px 10px 10px 10px !important;
+    -moz-border-radius: 10px 10px 10px 10px !important;
+	
+
+    background:
+        	-moz-linear-gradient(
+            	top, 
+				#f3f9fb,  
+				#f3f9fb) !important;
+    
+    box-shadow:
+        inset 3px -1px 1px rgba(0,0,0,0.2), /*top internal highlight*/ 
+        inset 1px 1px 1px rgba(255,255,255,0.2); /*bottom internal shadow*/ 
+    -moz-box-shadow: 
+        inset 3px -1px 1px rgba(0,0,0,0.2), /*top internal highlight*/ 
+        inset 1px 1px 1px rgba(255,255,255,0.2); /*bottom internal shadow*/ 
+  	-webkit-box-shadow:
+        inset 3px -1px 1px rgba(0,0,0,0.2), /*top internal highlight*/ 
+        inset 1px 1px 1px rgba(255,255,255,0.2); /*bottom internal shadow*/ 
+
+}
+
+.cell li {
+    margin-bottom:4px;}
+
+.cell h3 {
+	color: #08506d !important;
+    padding-bottom: 4px;
+    border-bottom: 4px solid white;
+    margin-bottom: 8px;
+    font-size: 1.8em;
+}
+
+#cell-row {
+    width: 952px;
+    margin-left: 0px;
+}
+
+#dealer-info h3,
+#dealer-info p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#dealer-info h3 {
+    margin-top: 20px;
+}
+
+/* FOOTER */
+#footer {
+    margin-top:10px;
+    color: #f3f9fb !important;
+    text-align: center;
+    background: #1f1f1f;
+    height: 150px;
+    width: 100% !important;}
+    
+#footer-wrap {
+    padding: 15px;}
+
+/* ----------------- */
+/* HOME PAGE STYLING */
+/* ----------------- */
+
+#cell-row #cell2 {height: 275px !important}
+
+#approval { width: 261px; height: 80px; background:url('../images/instant-approval.png') top left no-repeat; position: absolute; bottom: 8px; right: 8px; }
+#approval:hover { background:url('../images/instant-approval-hover.png') top left no-repeat;}
+#slider-cover h3 {display: none;}
+
+#price-ranges {position: absolute; right: 16px; top: 45px; list-style-type: none;}
+#price-ranges li {height:37px; margin: 0; padding: 0; width: 250px;}
+#price-ranges h4 {display:none;}
+
+/* --------------------- */
+/* INVENTORY LISTING CSS */
+/* --------------------- */
+
+#inventory .vehicle-listing {
+	height:176px;
+    background: #dde6ed;
+    padding-top: 10px
+}  
+#inventory h3 {
+	color: #11728f !important;}
+    
+#inventory .listing-container {
+	height:176px;
+	overflow:hidden;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+    margin-bottom: 10px;
+}
+    
+#inventory .img a {
+	box-shadow: 2px 2px 3px rgba(0,0,0,.4) !important;
+    -moz-box-shadow: 2px 2px 3pxrgba(0,0,0,.4) !important;
+  	-webkit-box-shadow: 2px 2px 3pxrgba(0,0,0,.4) !important;}
+
+#inventory .img {
+	max-width: 100%;
+	height: 136px;
+}
+  
+#inventory {
+	color: black;}
+    
+#inventory img a {
+	overflow: hidden;} 
+     
+#inventory a {
+	color: #11728f !important}
+    
+#inventory div {
+	display: inline-block;}
+
+#inventory .price {
+	width:207px;
+	float:left;
+	text-align: right;}
+
+#inventory.span5{
+	float: left;
+}
+#inventory h2 {
+	font-size: 2.5em !important;
+    margin-bottom: 5px; 
+    color: green !important;}
+    
+#filter {
+	background: #333;
+    position: fixed;
+    top: 175px;
+}
+#content-holder{
+	min-height:500px;
+	min-width: 700px;
+}
+#estimator {
+	background: green;
+    position: fixed;
+    top: 500px;
+    border-radius: 12px;
+}
+
+#index-find{
+	width: 66px;height: 40px; background-color: black !important;color: white;
+}
+#filter #filterForm {
+	margin: 0; margin-top: 10px;}
+#filter #filter-inner-wrap {
+	margin: 5px;}
+	
+#estimator #estimator-inner-wrap {
+	margin: 5px;}
+	
+#estimator-inner-wrap h1{
+	
+}
+
+.ie .est-inv-input{
+	width: 115px;
+}
+.est-inv-input {
+	width: 140px;
+	height: 28;
+	margin-top: 5px;
+}
+
+#select-mons{
+	width : 112px !important;
+}
+
+.estimator-rate {
+	width : 112px;;	
+	height: 30px !important;
+	margin-left: 5px;
+}
+/* ------------------- */
+/* VEHICLE PROFILE CSS */
+/* ------------------- */
+
+#vehicle-profile {
+    background: #dde6ed !important;
+    margin-top: 10px;
+    width: 952px;
+    overflow: hidden;
+}
+
+#vehicle-profile .span9 {
+    width: 500px;
+}
+
+#vehicle-profile .nav-tabs a {
+	color: #3f3f3f !important;
+     margin-bottom: 0 !important;}
+     
+#vehicle-profile .nav-tabs a:hover {
+	background: #3f3f3f; 
+    color: #f3f9fb !important;}
+    
+#vehicle-profile .nav-tabs .active a {
+	background: #3f3f3f; 
+    color: #f3f9fb !important;}
+    
+#vehicle-profile .tab-content {
+	background: #3f3f3f !important; 
+    color: #3f3f3f !important; 
+    margin-top: -16px;}
+    
+#vehicle-profile .tab-pane {
+	padding-top: 1px; 
+    padding-bottom: 2px;}
+    
+#vehicle-profile .tab-pane .well {
+	margin: 10px !important; 
+    overflow: auto; 
+    height: 250px;}
+
+#vehicle-profile a.thumbnail {
+	box-shadow: 2px 2px 3px rgba(0,0,0,.4) !important;
+    -moz-box-shadow: 2px 2px 3pxrgba(0,0,0,.4) !important;
+  	-webkit-box-shadow: 2px 2px 3pxrgba(0,0,0,.4) !important;
+    margin-bottom: 5px;
+    }
+
+#vehicle-profile {
+	padding-top: 8px;
+	color: black;}
+    
+#vehicle-profile .price {
+	text-align: right;}
+
+#vehicle-profile .price .btn-danger {
+	width: 100%; 
+    float: right; 
+    margin-bottom: 5px; 
+    background: #08506d !important; 
+    color: #f3f9fb !important;
+	box-shadow: 2px 2px 3px rgba(0,0,0,.7) !important;
+    -moz-box-shadow: 2px 2px 3pxrgba(0,0,0,.7) !important;
+  	-webkit-box-shadow: 2px 2px 3pxrgba(0,0,0,.7) !important;}
+#vehicle-profile .price .btn-danger .finance {
+    background: #66BA44 !important;
+}
+
+#vehicle-profile .price .btn-danger:hover {
+	background: #11728f !important; }
+
+#vehicle-profile .carousel a.thumbnail {
+	width: 21% !important; 
+    display: inline-block;
+    margin-right: 4px !important;}
+
+#vehicle-profile #similar .SimWrap {
+	margin: 8px;}
+
+#vehicle-profile #similar {
+	margin-top: 8px;
+	background: #dde6ed;}
+
+#vehicle-profile #similar #listing-container2 {
+	margin-right: 0 !important;}
+
+#vehicle-profile h2 {
+	font-size: 2.5em !important;
+    margin-bottom: 5px; 
+    color: green !important;}
+    
+#vehicle-profile h1 {
+	color: #11728f !important;}
+
+#vehicle-profile #similar .well {
+	padding: 10px !important;}
+
+#carfax {
+	position: relative;}
+#carfax h2 {
+	color: #1f1f1f !important;}
+#carfaxBTN {
+	color: #3f3f3f !important;}\
+	
+
+#carousel-nav {
+}
+    
+.carousel-control {
+	overflow: hidden; 
+    height: 15px; 
+    width: 25px;}
+    
+/* -------------- */
+/* TERTIARY PAGES */
+/* -------------- */
+
+#lease-specials img {
+	float: right; 
+    margin: 10px;}
+
+#tertiary-contact {
+	background: #dde6ed;
+    height: 300px;
+    color: #1f1f1f !important;
+}
+
+#tertiary-content {    
+    padding-left: 12px;
+    padding-top: 12px;
+    width: 700px !important;    
+    -moz-border-radius: 10px;
+}
+
+#tertiary-contact legend {
+	color: #1f1f1f;}
+    
+ 
+#tertiary-contact-wrapper {
+	margin: 10px;}
+
+#tertiary-contact input {
+	width: 175px;}
+
+#tertiary-contact-wrapper textarea {
+	width: 202px;}
+
+#tertiary-contact-wrapper input[type="submit"] {
+	width: 212px;}
+    
+#tertiary-cell ul {
+	padding-left: 15px;}
+    
+#tertiary-cell ul .inner-list {
+	margin-left: 5px;
+	list-style-type:square;}
+
+
+#tertiary-cell .list-wrap {
+    padding-left: 1%;
+    padding-top: 0;
+    margin-right: 1%;
+    margin-top: 1%;
+	width: 48%;
+    display: inline-block;
+    float: left;}
+    
+#tertiary-cell img.thumbnail {
+    box-shadow: 2px 2px 3px rgba(0,0,0,.5) !important;
+    -moz-box-shadow: 2px 2px 3pxrgba(0,0,0,.5) !important;
+  	-webkit-box-shadow: 2px 2px 3pxrgba(0,0,0,.5) !important;}
+    
+#tertiary-cell .list-wrap h4 {
+	margin-top: 4px;}
+    
+#tertiary-cell .list-wrap .unstyle ul{
+	margin-left: 10px;}
+    
+#tertiary-cell .list-wrap a {
+	color: #11728f !important;
+    font-weight: bold;}
+
+#tertiary-cell, 
+#tertiary-cell p, 
+#tertiary-cell ul {
+	color: black !important;
+	background: #DDE6ED;
+	border-radius: 10px;
+}
+	
+
+#tertiary-cell h1 {
+	color: #11728f !important;}
+#tertiary-cell h2,
+#tertiary-cell h3{
+	color: #3f3f3f !important;}
+
+#tertiary-content legend {
+    border-bottom: 3px solid #11728f;
+}
+
+#tertiary-content input[type="submit"] {
+    background: #11728f;
+    color: #f3f9fb;
+    font-weight: bold;
+}
+
+#tertiary-content input[type="submit"]:hover {
+    background: #258fa8;
+}
+
+
+#tertiary-content p {
+    margin-right: 15px;
+}
+
+#tertiary-cell h3 {
+	margin-top: 10px;}
+    
+#dealerInfo ul{
+	color: #f3f9fb !important;
+}
+
+
+#map {
+    margin-bottom: 8px;
+}
+
+#map a {
+    font-style: oblique;
+    float: right;
+}
+
+
+#dealerInfo { background: #08506D !important; border-radius: 10px; -moz-border-radius: 10px; padding-top: 8px; padding-bottom: 8px; margin-top: 28px;}
+#dealerInfo h4, #dealerInfo ul { margin-left: 8px; color: white !important;}
+#map small a { background: #DDE6ED !important; padding: .2em .4em .2em .4em; border-radius: 4px; -moz-border-radius: 4px; }
+
+#tertiary-cell .success {
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);}
+
+.no-right {
+    margin-right: 0 !important;
+}
+.no-left {
+    margin-left: 0 !important;
+}
+
+.nowrap {
+    whitespace: nowrap !important;
+}
+
+a.finance-button {
+	border-radius:4px;
+	text-decoration:none;
+	padding:4px 10px 4px;
+    background-color: #66ba44 !important;
+    font-weight: bold;
+}
+a.finance-button:hover {
+    background-color: green !important;
+}
+
+.price-tagline {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.hold-desciption{
+	white-space: nowrap;
+	overflow: hidden;
+	width: 95%;
+	text-overflow: ellipsis;
+}
+input.orderbtns{
+	float: left;
+}
+.label-order{
+	color:white;
+	float: left;
+	width: 36px;
+}
+#webtitle-hidden {display: none;color: black !important; position: absolute; top: 40px; font-size: 5.8em !important;}
+
+@media print {
+    #webtitle-hidden {display: block;}
+    #navBG {display: none;}
+    #keywords {display: none;}
+    #brand {display: none !important;}
+    div.carousel-nav {display: none !important;}
+    #carfaxBTN {display: none;}
+}

@@ -1,0 +1,18 @@
+;#ログ定義
+;# log level
+;#   WARN    --> for Log#warn()
+;#   DEBUG   --> for Log#debug()
+;#   INFO    --> for Log#info()
+;#   ERROR   --> for Log#error()
+;#   ALL     --> for ALL
+level=INFO
+
+;# log file name
+;#fileName=gpayclient.log
+fileName=/home/gijitsu/photo2.lapeace/logs/gpayclient.log
+
+;# log type  (error_log() message_type value)
+;#   CONSOLE --> 0
+;#   FILE    --> 3
+;type=FILE
+type=FILE

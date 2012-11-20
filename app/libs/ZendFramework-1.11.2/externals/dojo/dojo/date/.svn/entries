@@ -1,0 +1,54 @@
+8
+
+dir
+42
+http://50.62.144.155/repos/WebTeam/VinSocial/trunk/app/libs/ZendFramework-1.11.2/externals/dojo/dojo/date
+http://50.62.144.155/repos/WebTeam
+
+
+
+2012-10-18T07:22:53.522953Z
+3
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a965f18e-1c96-4973-8f31-9cb2a7295744
+
+locale.js
+file
+
+
+
+
+2012-10-24T09:53:46.024000Z
+818306449dc008c00edb2ed64fd3130a
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+
+stamp.js
+file
+
+
+
+
+2012-10-24T09:53:46.017000Z
+5ddec6aac037c527701654a23ecbfb44
+2012-10-18T07:22:53.522953Z
+3
+eric
+has-props
+

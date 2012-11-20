@@ -1,0 +1,195 @@
+<?php
+
+require_once dirname(__FILE__) . '/Push_Notification_Abstract.php';
+
+/**
+ * Push_Notification_Android
+ * Android用プッシュノーティフィケーションクラス
+ */
+class Push_Notification_Android extends Push_Notification_Abstract{
+	private static $SID;
+	private static $LSID;
+	private static $Auth;
+	
+	// @Override
+	public function init(){
+		$this->authenticate();
+	}
+	
+	// @Override
+	public function send(){
+		if(is_null($this->getMessage())){
+			throw new Push_Notification_Exception("Message is NULL\n");
+		}
+		if(is_null(self::$Auth)){
+			throw new Push_Notification_Exception("Auth is NULL\n");
+		}
+		$url = 'https://android.apis.google.com/c2dm/send';
+		
+		$params = array(
+			'registration_id' => $this->getDeviceToken(),
+			'collapse_key' => 1,
+			'data.message' => $this->getMessage(),
+			);
+		$param = http_build_query($params, '&');
+		
+		// socketで送信
+		$url_arr = parse_url($url);
+		$host = $url_arr["host"];
+		$path = $url_arr["path"];
+		
+		$request = "POST " . $path . " HTTP/1.1\r\n";
+		$request .= "Host: " . $host . "\r\n";
+		$request .= "Content-type: application/x-www-form-urlencoded\r\n";
+		$request .= "Authorization: GoogleLogin auth=".self::$Auth . "\r\n";
+		$request .= "Content-Length: " . strlen($param) . "\r\n";
+		$request .= "Connection: Close\r\n";
+		$request .= "\r\n";
+		$request .=  $param . "\r\n";
+		
+		$port = 80;
+		$scheme = "tcp";
+		if($url_arr["scheme"]==="https"){
+			$port = 443;
+			$scheme = "ssl";
+		}
+		$_url = sprintf("%s://%s:%s",$scheme,$host,$port);
+		
+		// 接続の開始
+		$fp = stream_socket_client($_url, $err, $errstr, 60, STREAM_CLIENT_CONNECT);
+		
+		if(!$fp){
+			// 接続エラー
+			throw new Push_Notification_Exception("Failed to connect $err $errstr\n");
+		}
+		
+		// リクエストの書き込み
+		fwrite($fp, $request);
+		// すぐに閉じることでレスポンスを待たずに投げっぱなしにする
+		/*
+		$result = "";
+		while(!feof($fp)){
+			$result .= fgets($fp, 4096);
+		}
+		self::log("dev.token:".$this->getDeviceToken());
+
+		self::log(var_export($result,true));
+		*/
+		// 接続の終了
+		fclose($fp);
+	}
+	
+	/**
+	 * authenticate
+	 * C2DMを送信するために認証を行い、トークンを取得する
+	 * @return void
+	 */
+	private function authenticate(){
+		if(!is_null(self::$SID) && !is_null(self::$LSID) && !is_null(self::$Auth)){
+			// 1プロセスにおいて一度だけ実行することでリクエストの時間コストを削減
+			return;
+		}
+		
+		// 設定の読込み
+		$config =& $this->getConfig();
+		$google= $config->Android->google;
+		if(is_null($google) ||is_null($google->id) || is_null($google->password)){
+			throw new Push_Notification_Exception("Could not get Config->notification->Android object or the propaties\n");
+		}
+		
+		$url = 'https://www.google.com/accounts/ClientLogin';
+		
+		// signupページで入力したgoogleアカウントのIDとパスワード
+		$google_id = 'メールアドレス'; // 送信者ID
+		$google_pwd = 'パスワード';
+		
+		$params = array();
+		$params['accountType'] = "GOOGLE";
+		$params['Email'] = $google->id;
+		$params['Passwd'] = $google->password;
+		$params['source'] = 'com.talknote.talknote.TalknoteApplication';
+		$params['service'] = 'ac2dm';
+		
+		$param = http_build_query($params, '&');
+		
+		// socketで送信
+		$url_arr = parse_url($url);
+		$host = $url_arr["host"];
+		$path = $url_arr["path"];
+		
+		$request = "POST " . $path . " HTTP/1.1\r\n";
+		$request .= "Host: " . $host . "\r\n";
+		$request .= "Content-type: application/x-www-form-urlencoded\r\n";
+		$request .= "Content-Length: " . strlen($param) . "\r\n";
+		$request .= "Connection: Close\r\n";
+		$request .= "\r\n";
+		$request .=  $param . "\r\n";
+		
+		$port = 80;
+		$scheme = "tcp";
+		if($url_arr["scheme"]==="https"){
+			$port = 443;
+			$scheme = "ssl";
+		}
+		$_url = sprintf("%s://%s:%s",$scheme,$host,$port);
+			
+		// 接続の開始
+		$fp = stream_socket_client($_url, $err, $errstr, 60, STREAM_CLIENT_CONNECT);
+		
+		if(!$fp){
+			// 接続エラー
+			throw new Push_Notification_Exception("Failed to connect $err $errstr\n");
+		}
+		// リクエストの書き込み
+		fwrite($fp, $request);
+		// レスポンスの取得
+		$result = "";
+		while(!feof($fp)){
+			$result .= fgets($fp, 4096);
+		}
+		// 接続の終了
+		fclose($fp);
+		
+		//self::log(var_export($result,true));
+		$ret = self::parseAuthResult($result);
+		
+		$keys = array("SID","LSID","Auth");
+		foreach($keys as $key){
+			if(isset($ret[$key]) && !empty($ret[$key])){
+				self::${$key} = $ret[$key];
+			}else{
+				throw new Push_Notification_Exception("Failed to Google-Authenticate:Could not get $key\n");
+			}
+		}
+	}
+	
+	/**
+	 * parseAuthResult
+	 * C2DMの認証レスポンスをパースする
+	 * @param $str:レスポンス文字列
+	 * @return 連想配列
+	 */
+	private static function parseAuthResult($str){
+		$ret = array();
+		$rows = explode("\n",$str);
+		foreach($rows as $row){
+			$val = explode("=",$row);
+			if(count($val)!=2) continue;
+			$ret[$val[0]] = $val[1];
+		}
+		return $ret;
+	}
+	
+	// 開発用コード
+	public static function log($msg){
+		/*
+		require_once 'Zend/Log.php';
+		require_once 'Zend/Log/Writer/Stream.php';
+		
+		$logger = new Zend_Log();
+		$logWriter = new Zend_Log_Writer_Stream('/tmp/notification_log.txt');
+		$logger->addWriter($logWriter);
+		$logger->log($msg, Zend_Log::DEBUG);
+		*/
+	}
+}
